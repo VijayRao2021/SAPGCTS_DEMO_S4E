@@ -57,6 +57,8 @@
 ************************************************************************
 REPORT Z_TEST_GCTS.
 
+START-OF-SELECTION.     "Added in Second TR
+
 GET RUN TIME FIELD DATA(t1).
 SELECT SINGLE @abap_true
 FROM mara
@@ -67,3 +69,5 @@ GET RUN TIME FIELD DATA(t2).
 IF lv_exists = abap_true.
   WRITE:/ |Time Taken: { CONV decfloat34( (  t2 - t1 ) / 1000000 ) } seconds|.
 ENDIF.
+
+END-OF-SELECTION.   "Added in second TR
