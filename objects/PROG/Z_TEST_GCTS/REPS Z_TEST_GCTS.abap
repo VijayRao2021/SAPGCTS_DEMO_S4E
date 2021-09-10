@@ -71,3 +71,4 @@ IF lv_exists = abap_true.
 ENDIF.
 
 END-OF-SELECTION.   "Added in second TR
+write:/ 'test via TE'.
