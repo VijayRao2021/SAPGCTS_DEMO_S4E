@@ -1,0 +1,121 @@
+[
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"PROG",
+    "OBJ_NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_INTERFACE_E2E",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2021-09-05",
+    "CHECK_DATE":"2021-09-05",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "VARCL":"X",
+    "SUBC":"1",
+    "APPL":"Z",
+    "UNAM":"RAOV",
+    "RSTAT":"K",
+    "RMAND":"011",
+    "RLOAD":"E",
+    "FIXPT":"X",
+    "UCCHECK":"X"
+   }
+  ]
+ },
+ {
+  "table":"TRDIRT",
+  "data":
+  [
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"2",
+    "TEXT":"Manage the finger print table"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"3",
+    "TEXT":"Manage the finger print table"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"4",
+    "TEXT":"Manage the finger print table"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"B",
+    "TEXT":"Manage the finger print table"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"C",
+    "TEXT":"Manage the finger print table"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"E",
+    "TEXT":"Manage the finger print table"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"G",
+    "TEXT":"Manage the finger print table"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"H",
+    "TEXT":"Manage the finger print table"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"L",
+    "TEXT":"Manage the finger print table"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"Q",
+    "TEXT":"Manage the finger print table"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"R",
+    "TEXT":"Manage the finger print table"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"T",
+    "TEXT":"Manage the finger print table"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_FINGER_PRT_MNGT",
+    "SPRSL":"묩",
+    "TEXT":"Manage the finger print table"
+   }
+  ]
+ }
+]

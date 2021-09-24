@@ -1,0 +1,295 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"2",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"3",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"4",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"B",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"C",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"E",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"G",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"H",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"I",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"L",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"N",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"Q",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"R",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"T",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"묩",
+    "ENTRY":"Calculation method is not configured in table ZBC_AUDIT_CUST for the interface &2",
+    "LENGTH":81
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"2",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"3",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"4",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"B",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"C",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"E",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"G",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"H",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"L",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"Q",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"R",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"T",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"묩",
+    "ENTRY":"Error when calculating MD5 checksum on idoc &2 => idoc is parked",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"2",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"3",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"4",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"B",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"C",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"E",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"G",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"H",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"L",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"Q",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"R",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"T",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"묩",
+    "ENTRY":"Idoc &2 has been already received under idoc &3 the &4",
+    "LENGTH":54
+   }
+  ]
+ }
+]

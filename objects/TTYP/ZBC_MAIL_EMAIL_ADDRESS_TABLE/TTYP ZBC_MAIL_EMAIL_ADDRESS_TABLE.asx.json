@@ -1,0 +1,160 @@
+[
+ {
+  "table":"DD40L",
+  "data":
+  [
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "AS4LOCAL":"N",
+    "ACTFLAG":"",
+    "ROWTYPE":"ZBC_MAIL_EMAIL_ADDRESS_LINE",
+    "ROWKIND":"S",
+    "DATATYPE":"STRU",
+    "LENG":0,
+    "DECIMALS":0,
+    "ACCESSMODE":"T",
+    "KEYDEF":"D",
+    "KEYKIND":"N",
+    "KEYFDCOUNT":0,
+    "GENERIC":"",
+    "TYPELEN":968,
+    "AS4USER":"CRESSOD",
+    "AS4DATE":"2021-09-17",
+    "AS4TIME":"10:49:53",
+    "TTYPKIND":"",
+    "RANGE_CTYP":"",
+    "REFTYPE":"",
+    "OCCURS":0,
+    "PROXYTYPE":"",
+    "ALIAS":"",
+    "FURTHERSECKEY":"",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"DD40T",
+  "data":
+  [
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"2",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   },
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"3",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   },
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"4",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   },
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"B",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   },
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"C",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   },
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   },
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"G",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   },
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"H",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   },
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"L",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   },
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"Q",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   },
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"R",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   },
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   },
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "DDLANGUAGE":"묩",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Email adresses table"
+   }
+  ]
+ },
+ {
+  "table":"DDTYPES",
+  "data":
+  [
+   {
+    "TYPENAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "STATE":"N",
+    "TYPEKIND":"TTYP"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"TTYP",
+    "OBJ_NAME":"ZBC_MAIL_EMAIL_ADDRESS_TABLE",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_COM_EMAIL",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,129 @@
+[
+ {
+  "table":"DD04L",
+  "data":
+  [
+   {
+    "ROLLNAME":"ZUNIQUE_ID",
+    "AS4LOCAL":"L",
+    "AS4VERS":0,
+    "DOMNAME":"ZUNIQUE_ID",
+    "ROUTPUTLEN":0,
+    "MEMORYID":"",
+    "LOGFLAG":"",
+    "HEADLEN":0,
+    "SCRLEN1":10,
+    "SCRLEN2":15,
+    "SCRLEN3":20,
+    "ACTFLAG":"",
+    "APPLCLASS":"",
+    "AUTHCLASS":0,
+    "AS4USER":"CRESSOD",
+    "AS4DATE":"2021-08-31",
+    "AS4TIME":"22:13:56",
+    "DTELMASTER":"E",
+    "RESERVEDTE":"",
+    "DTELGLOBAL":"",
+    "SHLPNAME":"",
+    "SHLPFIELD":"",
+    "DEFFDNAME":"",
+    "DATATYPE":"CHAR",
+    "LENG":70,
+    "DECIMALS":0,
+    "OUTPUTLEN":70,
+    "LOWERCASE":"X",
+    "SIGNFLAG":"",
+    "CONVEXIT":"",
+    "VALEXI":"",
+    "ENTITYTAB":"",
+    "REFKIND":"D",
+    "REFTYPE":"",
+    "PROXYTYPE":"",
+    "LTRFLDDIS":"",
+    "BIDICTRLC":"",
+    "NOHISTORY":"",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"DD04T",
+  "data":
+  [
+   {
+    "ROLLNAME":"ZUNIQUE_ID",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Interface Unique ID",
+    "REPTEXT":"",
+    "SCRTEXT_S":"Unique ID",
+    "SCRTEXT_M":"Unique ID",
+    "SCRTEXT_L":"Interface Unique ID"
+   },
+   {
+    "ROLLNAME":"ZUNIQUE_ID",
+    "DDLANGUAGE":"I",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Interface Unique ID",
+    "REPTEXT":"",
+    "SCRTEXT_S":"Unique ID",
+    "SCRTEXT_M":"Unique ID",
+    "SCRTEXT_L":"Interface Unique ID"
+   },
+   {
+    "ROLLNAME":"ZUNIQUE_ID",
+    "DDLANGUAGE":"N",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Interface Unique ID",
+    "REPTEXT":"",
+    "SCRTEXT_S":"Unique ID",
+    "SCRTEXT_M":"Unique ID",
+    "SCRTEXT_L":"Interface Unique ID"
+   }
+  ]
+ },
+ {
+  "table":"DDTYPES",
+  "data":
+  [
+   {
+    "TYPENAME":"ZUNIQUE_ID",
+    "STATE":"N",
+    "TYPEKIND":"DTEL"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DTEL",
+    "OBJ_NAME":"ZUNIQUE_ID",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_INTERFACE_E2E",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

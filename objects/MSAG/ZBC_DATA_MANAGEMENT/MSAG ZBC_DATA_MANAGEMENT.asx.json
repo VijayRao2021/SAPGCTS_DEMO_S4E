@@ -1,0 +1,941 @@
+[
+ {
+  "table":"DOKHL",
+  "data":
+  [
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT000",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT001",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT002",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT003",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT004",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT005",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT006",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
+   }
+  ]
+ },
+ {
+  "table":"DOKIL",
+  "data":
+  [
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT000",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT001",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT002",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT003",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT004",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT005",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZBC_DATA_MANAGEMENT006",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
+   }
+  ]
+ },
+ {
+  "table":"T100",
+  "data":
+  [
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "TEXT":"A change request is already in progress."
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "TEXT":"Data of change request are not correct (check the log)"
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "TEXT":"Error during data completion (check the log)"
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "TEXT":"Download canceled"
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "TEXT":"Upload canceled"
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "TEXT":"Upload failed"
+   }
+  ]
+ },
+ {
+  "table":"T100A",
+  "data":
+  [
+   {
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MASTERLANG":"E",
+    "APPLCLASS":"",
+    "RESPUSER":"CRESSOD",
+    "LASTUSER":"RAOV",
+    "LDATE":"2021-09-18",
+    "LTIME":"09:14:39",
+    "STEXT":"Messages class for the data management module( DO NOT USE )"
+   }
+  ]
+ },
+ {
+  "table":"T100T",
+  "data":
+  [
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module"
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module"
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module"
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module"
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module( DO NOT USE )"
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module"
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module"
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module"
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module"
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module"
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module"
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "STEXT":"Messages class for the data management module"
+   }
+  ]
+ },
+ {
+  "table":"T100U",
+  "data":
+  [
+   {
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"000",
+    "NAME":"CRESSOD",
+    "DATUM":"2021-08-31",
+    "SELFDEF":"3"
+   },
+   {
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"001",
+    "NAME":"CRESSOD",
+    "DATUM":"2021-08-31",
+    "SELFDEF":"3"
+   },
+   {
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"002",
+    "NAME":"CRESSOD",
+    "DATUM":"2021-08-31",
+    "SELFDEF":"3"
+   },
+   {
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"003",
+    "NAME":"CRESSOD",
+    "DATUM":"2021-08-31",
+    "SELFDEF":"3"
+   },
+   {
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"004",
+    "NAME":"CRESSOD",
+    "DATUM":"2021-08-31",
+    "SELFDEF":"3"
+   },
+   {
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"005",
+    "NAME":"CRESSOD",
+    "DATUM":"2021-08-31",
+    "SELFDEF":"3"
+   },
+   {
+    "ARBGB":"ZBC_DATA_MANAGEMENT",
+    "MSGNR":"006",
+    "NAME":"CRESSOD",
+    "DATUM":"2021-08-31",
+    "SELFDEF":"3"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"MSAG",
+    "OBJ_NAME":"ZBC_DATA_MANAGEMENT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_DATA_MANAGEMENT",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2016-05-27",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

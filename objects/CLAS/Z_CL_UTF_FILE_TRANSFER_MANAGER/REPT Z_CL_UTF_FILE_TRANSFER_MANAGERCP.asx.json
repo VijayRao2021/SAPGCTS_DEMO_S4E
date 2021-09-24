@@ -1,0 +1,337 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"B",
+    "ENTRY":"Error during the transfer of file &2.",
+    "LENGTH":74
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"E",
+    "ENTRY":"Error during the transfer of file &2.",
+    "LENGTH":74
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"묩",
+    "ENTRY":"Error during the transfer of file &2.",
+    "LENGTH":74
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"B",
+    "ENTRY":"Error during Server &2 Finger Print initialization!",
+    "LENGTH":102
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"E",
+    "ENTRY":"Error during Server &2 Finger Print initialization!",
+    "LENGTH":102
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"묩",
+    "ENTRY":"Error during Server &2 Finger Print initialization!",
+    "LENGTH":102
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"B",
+    "ENTRY":"Error during transfer the file: &2 &3 &4.",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"E",
+    "ENTRY":"Error during transfer the file: &2 &3 &4.",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"E",
+    "ENTRY":"Error in creating HTTP client by the URL &2",
+    "LENGTH":86
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"E",
+    "ENTRY":"Can not open the XML file for the URL &2",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"E",
+    "ENTRY":"Can not load the XML file into memory for the URL &2",
+    "LENGTH":104
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"2",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"3",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"4",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"B",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"C",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"E",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"G",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"H",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"L",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"Q",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"R",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"T",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"묩",
+    "ENTRY":"Initializing the File Transfer Manager Module...",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"B",
+    "ENTRY":"Transfer file &2 by SFTP.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"E",
+    "ENTRY":"Transfer file &2 by SFTP.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"묩",
+    "ENTRY":"Transfer file &2 by SFTP.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"B",
+    "ENTRY":"Server: &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"E",
+    "ENTRY":"Server: &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"묩",
+    "ENTRY":"Server: &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"B",
+    "ENTRY":"User: &2.",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"E",
+    "ENTRY":"User: &2.",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"묩",
+    "ENTRY":"User: &2.",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"B",
+    "ENTRY":"Target folder: &2.",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"E",
+    "ENTRY":"Target folder: &2.",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"묩",
+    "ENTRY":"Target folder: &2.",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"B",
+    "ENTRY":"Retried to transfer the file",
+    "LENGTH":56
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"E",
+    "ENTRY":"Retried to transfer the file",
+    "LENGTH":56
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"E",
+    "ENTRY":"Attempt &2",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"B",
+    "ENTRY":"Transfer of file &2 successfully done.",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"E",
+    "ENTRY":"Transfer of file &2 successfully done.",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"묩",
+    "ENTRY":"Transfer of file &2 successfully done.",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"B",
+    "ENTRY":"Server &2 Finger Print successfully initialized!",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"E",
+    "ENTRY":"Server &2 Finger Print successfully initialized!",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"묩",
+    "ENTRY":"Server &2 Finger Print successfully initialized!",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S03",
+    "LANG":"B",
+    "ENTRY":"File transfered successfully.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"S03",
+    "LANG":"E",
+    "ENTRY":"File transfered successfully.",
+    "LENGTH":58
+   }
+  ]
+ }
+]

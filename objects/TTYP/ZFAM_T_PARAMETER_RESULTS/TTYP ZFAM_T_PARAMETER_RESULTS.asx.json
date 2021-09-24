@@ -1,0 +1,160 @@
+[
+ {
+  "table":"DD40L",
+  "data":
+  [
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "AS4LOCAL":"N",
+    "ACTFLAG":"",
+    "ROWTYPE":"ZFAM_S_PARAMETER_RESULT",
+    "ROWKIND":"S",
+    "DATATYPE":"STRU",
+    "LENG":0,
+    "DECIMALS":0,
+    "ACCESSMODE":"T",
+    "KEYDEF":"D",
+    "KEYKIND":"N",
+    "KEYFDCOUNT":0,
+    "GENERIC":"",
+    "TYPELEN":72,
+    "AS4USER":"CRESSOD",
+    "AS4DATE":"2021-08-31",
+    "AS4TIME":"22:13:58",
+    "TTYPKIND":"",
+    "RANGE_CTYP":"",
+    "REFTYPE":"",
+    "OCCURS":0,
+    "PROXYTYPE":"",
+    "ALIAS":"",
+    "FURTHERSECKEY":"",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"DD40T",
+  "data":
+  [
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"2",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"3",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"4",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"B",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"C",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"G",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"H",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"L",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"Q",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"R",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "DDLANGUAGE":"묩",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Multiple parameters with multiple values results table type"
+   }
+  ]
+ },
+ {
+  "table":"DDTYPES",
+  "data":
+  [
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_RESULTS",
+    "STATE":"N",
+    "TYPEKIND":"TTYP"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"TTYP",
+    "OBJ_NAME":"ZFAM_T_PARAMETER_RESULTS",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_CONF_FAM",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2017-04-28",
+    "CHECK_DATE":"2017-04-28",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

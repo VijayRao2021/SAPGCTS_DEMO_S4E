@@ -1,0 +1,105 @@
+*---------------------------------------------------------------------*
+*    view related data declarations
+*   generation date: 20.09.2021 at 19:12:56
+*   view maintenance generator version: #001407#
+*---------------------------------------------------------------------*
+*...processing: ZFAM_FEATURE....................................*
+DATA:  BEGIN OF STATUS_ZFAM_FEATURE                  .   "state vector
+         INCLUDE STRUCTURE VIMSTATUS.
+DATA:  END OF STATUS_ZFAM_FEATURE                  .
+CONTROLS: TCTRL_ZFAM_FEATURE
+            TYPE TABLEVIEW USING SCREEN '0001'.
+*...processing: ZFAM_PARAMETERS.................................*
+DATA:  BEGIN OF STATUS_ZFAM_PARAMETERS               .   "state vector
+         INCLUDE STRUCTURE VIMSTATUS.
+DATA:  END OF STATUS_ZFAM_PARAMETERS               .
+CONTROLS: TCTRL_ZFAM_PARAMETERS
+            TYPE TABLEVIEW USING SCREEN '0004'.
+*...processing: ZFAM_RULES_GROUP................................*
+DATA:  BEGIN OF STATUS_ZFAM_RULES_GROUP              .   "state vector
+         INCLUDE STRUCTURE VIMSTATUS.
+DATA:  END OF STATUS_ZFAM_RULES_GROUP              .
+CONTROLS: TCTRL_ZFAM_RULES_GROUP
+            TYPE TABLEVIEW USING SCREEN '0003'.
+*...processing: ZV_FAM_FEATURE..................................*
+TABLES: ZV_FAM_FEATURE, *ZV_FAM_FEATURE. "view work areas
+CONTROLS: TCTRL_ZV_FAM_FEATURE
+TYPE TABLEVIEW USING SCREEN '0002'.
+DATA: BEGIN OF STATUS_ZV_FAM_FEATURE. "state vector
+          INCLUDE STRUCTURE VIMSTATUS.
+DATA: END OF STATUS_ZV_FAM_FEATURE.
+* Table for entries selected to show on screen
+DATA: BEGIN OF ZV_FAM_FEATURE_EXTRACT OCCURS 0010.
+INCLUDE STRUCTURE ZV_FAM_FEATURE.
+          INCLUDE STRUCTURE VIMFLAGTAB.
+DATA: END OF ZV_FAM_FEATURE_EXTRACT.
+* Table for all entries loaded from database
+DATA: BEGIN OF ZV_FAM_FEATURE_TOTAL OCCURS 0010.
+INCLUDE STRUCTURE ZV_FAM_FEATURE.
+          INCLUDE STRUCTURE VIMFLAGTAB.
+DATA: END OF ZV_FAM_FEATURE_TOTAL.
+
+*...processing: ZV_FAM_PARAMETER................................*
+TABLES: ZV_FAM_PARAMETER, *ZV_FAM_PARAMETER. "view work areas
+CONTROLS: TCTRL_ZV_FAM_PARAMETER
+TYPE TABLEVIEW USING SCREEN '0005'.
+DATA: BEGIN OF STATUS_ZV_FAM_PARAMETER. "state vector
+          INCLUDE STRUCTURE VIMSTATUS.
+DATA: END OF STATUS_ZV_FAM_PARAMETER.
+* Table for entries selected to show on screen
+DATA: BEGIN OF ZV_FAM_PARAMETER_EXTRACT OCCURS 0010.
+INCLUDE STRUCTURE ZV_FAM_PARAMETER.
+          INCLUDE STRUCTURE VIMFLAGTAB.
+DATA: END OF ZV_FAM_PARAMETER_EXTRACT.
+* Table for all entries loaded from database
+DATA: BEGIN OF ZV_FAM_PARAMETER_TOTAL OCCURS 0010.
+INCLUDE STRUCTURE ZV_FAM_PARAMETER.
+          INCLUDE STRUCTURE VIMFLAGTAB.
+DATA: END OF ZV_FAM_PARAMETER_TOTAL.
+
+*...processing: ZV_FAM_RULES_GR2................................*
+TABLES: ZV_FAM_RULES_GR2, *ZV_FAM_RULES_GR2. "view work areas
+CONTROLS: TCTRL_ZV_FAM_RULES_GR2
+TYPE TABLEVIEW USING SCREEN '0007'.
+DATA: BEGIN OF STATUS_ZV_FAM_RULES_GR2. "state vector
+          INCLUDE STRUCTURE VIMSTATUS.
+DATA: END OF STATUS_ZV_FAM_RULES_GR2.
+* Table for entries selected to show on screen
+DATA: BEGIN OF ZV_FAM_RULES_GR2_EXTRACT OCCURS 0010.
+INCLUDE STRUCTURE ZV_FAM_RULES_GR2.
+          INCLUDE STRUCTURE VIMFLAGTAB.
+DATA: END OF ZV_FAM_RULES_GR2_EXTRACT.
+* Table for all entries loaded from database
+DATA: BEGIN OF ZV_FAM_RULES_GR2_TOTAL OCCURS 0010.
+INCLUDE STRUCTURE ZV_FAM_RULES_GR2.
+          INCLUDE STRUCTURE VIMFLAGTAB.
+DATA: END OF ZV_FAM_RULES_GR2_TOTAL.
+
+*...processing: ZV_FAM_RULES_GRP................................*
+TABLES: ZV_FAM_RULES_GRP, *ZV_FAM_RULES_GRP. "view work areas
+CONTROLS: TCTRL_ZV_FAM_RULES_GRP
+TYPE TABLEVIEW USING SCREEN '0006'.
+DATA: BEGIN OF STATUS_ZV_FAM_RULES_GRP. "state vector
+          INCLUDE STRUCTURE VIMSTATUS.
+DATA: END OF STATUS_ZV_FAM_RULES_GRP.
+* Table for entries selected to show on screen
+DATA: BEGIN OF ZV_FAM_RULES_GRP_EXTRACT OCCURS 0010.
+INCLUDE STRUCTURE ZV_FAM_RULES_GRP.
+          INCLUDE STRUCTURE VIMFLAGTAB.
+DATA: END OF ZV_FAM_RULES_GRP_EXTRACT.
+* Table for all entries loaded from database
+DATA: BEGIN OF ZV_FAM_RULES_GRP_TOTAL OCCURS 0010.
+INCLUDE STRUCTURE ZV_FAM_RULES_GRP.
+          INCLUDE STRUCTURE VIMFLAGTAB.
+DATA: END OF ZV_FAM_RULES_GRP_TOTAL.
+
+*.........table declarations:.................................*
+TABLES: *ZFAM_FEATURE                  .
+TABLES: *ZFAM_PARAMETERS               .
+TABLES: *ZFAM_RULES_GROUP              .
+TABLES: ZFAM_FEATURE                   .
+TABLES: ZFAM_PARAMETERS                .
+TABLES: ZFAM_RULES_GROUP               .
+
+* general table data declarations..............
+  INCLUDE LSVIMTDT                                .

@@ -1,0 +1,3763 @@
+[
+ {
+  "table":"ENLFDIR",
+  "data":
+  [
+   {
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "ACTIVE":"X",
+    "GENERATED":"X",
+    "FREEDATE":"0000-00-00",
+    "GLOBAL":"",
+    "LOC_PRIV":"",
+    "EXTEN1":"E",
+    "EXTEN2":"1",
+    "EXTEN3":"",
+    "EXTEN4":"",
+    "EXTEN5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "ACTIVE":"X",
+    "GENERATED":"X",
+    "FREEDATE":"0000-00-00",
+    "GLOBAL":"X",
+    "LOC_PRIV":"",
+    "EXTEN1":"E",
+    "EXTEN2":"1",
+    "EXTEN3":"",
+    "EXTEN4":"",
+    "EXTEN5":""
+   }
+  ]
+ },
+ {
+  "table":"FUNCT",
+  "data":
+  [
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit dynam. zu deaktivierenden CUA-Funkt."
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_KEYTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle mit den Keys der zu transport. Einträge"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"CORR_NUMBER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer für durchgeführte Änderungen"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DBA_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für den DB-Zugriff"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"DPL_SELLIST",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Selektionsbedingungen für die Anzeige"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der nicht zu aktivierenden CUA-Funktionen"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"EXTRACT",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tab. der gerade sichtbaren Daten (Anzeigetabelle"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"FCODE",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"gewünschte Funktion des Bausteins"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Index der Cursorposition in der Anzeigetabelle"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Korrekturnummer fehlt"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "KIND":"X",
+    "VERSION":1,
+    "STEXT":"Fehler beim Sichern der Korrektureinträge"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"TOTAL",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Tabelle, mit allen von der DB gelesenen Daten"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UCOMM",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"letztes User-command innerhalb der Viewpflege"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Flag: Einträge verändert, Sichern erforderlich"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_ACTION",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Aktion mit Tabelle: anz./änd./transp. (S/U/T)"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"VIEW_NAME",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Name der Tabelle"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_HEADER",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabelle"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PARAMETER":"X_NAMTAB",
+    "KIND":"P",
+    "VERSION":1,
+    "STEXT":"Kontrollblocktabelle für die Tabellen-Felder"
+   }
+  ]
+ },
+ {
+  "table":"FUPARAREF",
+  "data":
+  [
+   {
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"CORR_NUMBER",
+    "PARAMTYPE":"I",
+    "STRUCTURE":"E070-TRKORR",
+    "DEFAULTVAL":"' '",
+    "REFERENCE":"",
+    "PPOSITION":3,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"DBA_SELLIST",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"VIMSELLIST",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":1,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"DPL_SELLIST",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"VIMSELLIST",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":2,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"VIMEXCLFUN",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":3,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "PARAMTYPE":"X",
+    "STRUCTURE":"",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":1,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"VIEW_ACTION",
+    "PARAMTYPE":"I",
+    "STRUCTURE":"",
+    "DEFAULTVAL":"'S'",
+    "REFERENCE":"",
+    "PPOSITION":1,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"VIEW_NAME",
+    "PARAMTYPE":"I",
+    "STRUCTURE":"DD02V-TABNAME",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":2,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"X_HEADER",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"VIMDESC",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":4,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"X_NAMTAB",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"VIMNAMTAB",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":5,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"CORR_KEYTAB",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"E071K",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":1,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"CORR_NUMBER",
+    "PARAMTYPE":"I",
+    "STRUCTURE":"E070-TRKORR",
+    "DEFAULTVAL":"' '",
+    "REFERENCE":"",
+    "PPOSITION":4,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"DBA_SELLIST",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"VIMSELLIST",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":2,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"DPL_SELLIST",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"VIMSELLIST",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":3,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"EXCL_CUA_FUNCT",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"VIMEXCLFUN",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":4,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"EXTRACT",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":5,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"FCODE",
+    "PARAMTYPE":"I",
+    "STRUCTURE":"",
+    "DEFAULTVAL":"'RDED'",
+    "REFERENCE":"",
+    "PPOSITION":1,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"LAST_ACT_ENTRY",
+    "PARAMTYPE":"E",
+    "STRUCTURE":"",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":1,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"MISSING_CORR_NUMBER",
+    "PARAMTYPE":"X",
+    "STRUCTURE":"",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":1,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"SAVING_CORRECTION_FAILED",
+    "PARAMTYPE":"X",
+    "STRUCTURE":"",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":2,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"TOTAL",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":6,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"UCOMM",
+    "PARAMTYPE":"E",
+    "STRUCTURE":"",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":2,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"UPDATE_REQUIRED",
+    "PARAMTYPE":"E",
+    "STRUCTURE":"",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":3,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"VIEW_ACTION",
+    "PARAMTYPE":"I",
+    "STRUCTURE":"",
+    "DEFAULTVAL":"'S'",
+    "REFERENCE":"",
+    "PPOSITION":2,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"VIEW_NAME",
+    "PARAMTYPE":"I",
+    "STRUCTURE":"DD02V-TABNAME",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":3,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"X_HEADER",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"VIMDESC",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":7,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "R3STATE":"A",
+    "PARAMETER":"X_NAMTAB",
+    "PARAMTYPE":"T",
+    "STRUCTURE":"VIMNAMTAB",
+    "DEFAULTVAL":"",
+    "REFERENCE":"",
+    "PPOSITION":8,
+    "OPTIONAL":"",
+    "TYPE":"",
+    "CLASS":"",
+    "REF_CLASS":"",
+    "LINE_OF":"",
+    "TABLE_OF":"",
+    "RESFLAG1":"",
+    "RESFLAG2":"",
+    "RESFLAG3":"",
+    "RESFLAG4":"",
+    "RESFLAG5":""
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"FUGR",
+    "OBJ_NAME":"ZBC_AUDIT_TABLES",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_INTERFACE_E2E",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TFDIR",
+  "data":
+  [
+   {
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "PNAME":"SAPLZBC_AUDIT_TABLES",
+    "INCLUDE":"01",
+    "FREEDATE":"0000-00-00",
+    "APPL":"",
+    "MAND":"",
+    "FMODE":"",
+    "HOST":"",
+    "UTASK":"",
+    "PNAME_MAIN":"SAPLZBC_AUDIT_TABLES",
+    "RFCSCOPE":"",
+    "RFCVERS":""
+   },
+   {
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "PNAME":"SAPLZBC_AUDIT_TABLES",
+    "INCLUDE":"02",
+    "FREEDATE":"0000-00-00",
+    "APPL":"",
+    "MAND":"",
+    "FMODE":"",
+    "HOST":"",
+    "UTASK":"",
+    "PNAME_MAIN":"SAPLZBC_AUDIT_TABLES",
+    "RFCSCOPE":"",
+    "RFCVERS":""
+   }
+  ]
+ },
+ {
+  "table":"TFTIT",
+  "data":
+  [
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"2",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"3",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"4",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"B",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"C",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"E",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"G",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"H",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"L",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"Q",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"R",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"T",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEFRAME_ZBC_AUDIT_TABLES",
+    "STEXT":"Upper-level extended table maintenance"
+   },
+   {
+    "SPRAS":"묩",
+    "FUNCNAME":"TABLEPROC_ZBC_AUDIT_TABLES",
+    "STEXT":"Lower-level extended table maintenance"
+   }
+  ]
+ },
+ {
+  "table":"TLIBG",
+  "data":
+  [
+   {
+    "AREA":"ZBC_AUDIT_TABLES",
+    "UNAME":""
+   }
+  ]
+ },
+ {
+  "table":"TLIBT",
+  "data":
+  [
+   {
+    "SPRAS":"2",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   },
+   {
+    "SPRAS":"3",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   },
+   {
+    "SPRAS":"4",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   },
+   {
+    "SPRAS":"B",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   },
+   {
+    "SPRAS":"C",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   },
+   {
+    "SPRAS":"E",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   },
+   {
+    "SPRAS":"G",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   },
+   {
+    "SPRAS":"H",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   },
+   {
+    "SPRAS":"L",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   },
+   {
+    "SPRAS":"Q",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   },
+   {
+    "SPRAS":"R",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   },
+   {
+    "SPRAS":"T",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   },
+   {
+    "SPRAS":"묩",
+    "AREA":"ZBC_AUDIT_TABLES",
+    "AREAT":"Extended Table Maintenance (Generated)"
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"LZBC_AUDIT_TABLES$01",
+    "EDTX":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "UNAM":"SAP*",
+    "RSTAT":"S",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLES$02",
+    "EDTX":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "UNAM":"SAP*",
+    "RSTAT":"S",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESF00",
+    "SQLX":"X",
+    "EDTX":"X",
+    "SUBC":"I",
+    "UNAM":"SAP*",
+    "LEVL":"740",
+    "RLOAD":"E"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESI00",
+    "SQLX":"X",
+    "EDTX":"X",
+    "SUBC":"I",
+    "UNAM":"SAP*",
+    "LEVL":"740",
+    "RLOAD":"E"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLEST00",
+    "EDTX":"X",
+    "SUBC":"I",
+    "UNAM":"SAP*",
+    "LEVL":"701",
+    "RLOAD":"E"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESTOP",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "UNAM":"CRESSOD",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESU01",
+    "SQLX":"X",
+    "SUBC":"I",
+    "UNAM":"CRESSOD",
+    "LEVL":"701",
+    "RLOAD":"E"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESU02",
+    "SQLX":"X",
+    "SUBC":"I",
+    "UNAM":"CRESSOD",
+    "LEVL":"701",
+    "RLOAD":"E"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "EDTX":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "UNAM":"SAP*",
+    "RSTAT":"S",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"SAPLZBC_AUDIT_TABLES",
+    "SQLX":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"F",
+    "APPL":"S",
+    "UNAM":"CRESSOD",
+    "RMAND":"011",
+    "RLOAD":"E",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   }
+  ]
+ },
+ {
+  "table":"TRDIRT",
+  "data":
+  [
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"2",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"3",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"4",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"B",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"C",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"E",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"G",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"H",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"L",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"Q",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"R",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"T",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   },
+   {
+    "NAME":"LZBC_AUDIT_TABLESUXX",
+    "SPRSL":"묩",
+    "TEXT":"LZBC_AUDIT_TABLESUXX"
+   }
+  ]
+ }
+]

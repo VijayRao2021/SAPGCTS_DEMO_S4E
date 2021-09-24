@@ -1,0 +1,862 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"B",
+    "ENTRY":"Hello,",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"E",
+    "ENTRY":"Hello,",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"묩",
+    "ENTRY":"Hello,",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"B",
+    "ENTRY":"The file(s) below could not be sent to GRP because the corresponding CSV/PDF file is missing:",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"E",
+    "ENTRY":"The file(s) below could not be sent to GRP because the corresponding CSV/PDF file is missing:",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"묩",
+    "ENTRY":"The file(s) below could not be sent to GRP because the corresponding CSV/PDF file is missing:",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"B03",
+    "LANG":"B",
+    "ENTRY":"Kind Regards,",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"B03",
+    "LANG":"E",
+    "ENTRY":"Kind Regards,",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"B03",
+    "LANG":"묩",
+    "ENTRY":"Kind Regards,",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"B",
+    "ENTRY":"SAP Team",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"E",
+    "ENTRY":"SAP Team",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"묩",
+    "ENTRY":"SAP Team",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"2",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"3",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"4",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"B",
+    "ENTRY":"No configuration found in ZFILE_MANAGER for Process ID &2.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"C",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"E",
+    "ENTRY":"No configuration found in ZFILE_MANAGER for Process ID &2.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"G",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"H",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"L",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"Q",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"R",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"T",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"묩",
+    "ENTRY":"No configuration found in ZFILE_MANAGER for Process ID &2.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"B",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"E",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"묩",
+    "ENTRY":"File is now alone for more than 30min, park it.",
+    "LENGTH":94
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"B",
+    "ENTRY":"Cannot Convert &3",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"E",
+    "ENTRY":"Cannot Convert &3",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"묩",
+    "ENTRY":"Cannot Convert &3",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"2",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"3",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"4",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"B",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"C",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"E",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"G",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"H",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"L",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"Q",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"R",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"T",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"묩",
+    "ENTRY":"Initializing the File Manager Module...",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"B",
+    "ENTRY":"Convert &2 to &3",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"E",
+    "ENTRY":"Convert &2 to &3",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"묩",
+    "ENTRY":"Convert &2 to &3",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"B",
+    "ENTRY":"Process ID &2 has a &3 days retention defined.",
+    "LENGTH":56
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"E",
+    "ENTRY":"Process ID &2 has a &3 days retention defined.",
+    "LENGTH":56
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"묩",
+    "ENTRY":"Process ID &2 has a &3 days retention defined.",
+    "LENGTH":56
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"B",
+    "ENTRY":"Folder cleaning initialized for folder &2.",
+    "LENGTH":82
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"E",
+    "ENTRY":"Folder cleaning initialized for folder &2.",
+    "LENGTH":82
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"묩",
+    "ENTRY":"Folder cleaning initialized for folder &2.",
+    "LENGTH":82
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"B",
+    "ENTRY":"Check if folder &2 exists.",
+    "LENGTH":38
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"E",
+    "ENTRY":"Check if folder &2 exists.",
+    "LENGTH":38
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"묩",
+    "ENTRY":"Check if folder &2 exists.",
+    "LENGTH":38
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"B",
+    "ENTRY":"Creation of folder &2.",
+    "LENGTH":78
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"E",
+    "ENTRY":"Creation of folder &2.",
+    "LENGTH":78
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"묩",
+    "ENTRY":"Creation of folder &2.",
+    "LENGTH":78
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"B",
+    "ENTRY":"Folders checking initialized.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"E",
+    "ENTRY":"Folders checking initialized.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"묩",
+    "ENTRY":"Folders checking initialized.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"I09",
+    "LANG":"B",
+    "ENTRY":"No files to clean the folder &2.",
+    "LENGTH":62
+   },
+   {
+    "ID":"I",
+    "KEY":"I09",
+    "LANG":"E",
+    "ENTRY":"No files to clean the folder &2.",
+    "LENGTH":62
+   },
+   {
+    "ID":"I",
+    "KEY":"I09",
+    "LANG":"묩",
+    "ENTRY":"No files to clean the folder &2.",
+    "LENGTH":62
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"B",
+    "ENTRY":"No Retention time defined for Process ID &2.",
+    "LENGTH":88
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"E",
+    "ENTRY":"No Retention time defined for Process ID &2.",
+    "LENGTH":88
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"묩",
+    "ENTRY":"No Retention time defined for Process ID &2.",
+    "LENGTH":88
+   },
+   {
+    "ID":"I",
+    "KEY":"L01",
+    "LANG":"B",
+    "ENTRY":"Not Managed by file manager",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"L01",
+    "LANG":"E",
+    "ENTRY":"Not Managed by file manager",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"L01",
+    "LANG":"묩",
+    "ENTRY":"Not Managed by file manager",
+    "LENGTH":54
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"B",
+    "ENTRY":"Folder &2 cleaning completed successfully",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"E",
+    "ENTRY":"Folder &2 cleaning completed successfully",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"묩",
+    "ENTRY":"Folder &2 cleaning completed successfully",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"2",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"3",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"4",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"B",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"C",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"E",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"G",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"H",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"L",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"Q",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"R",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"T",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"묩",
+    "ENTRY":"No file found in folder &2",
+    "LENGTH":52
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"B",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"E",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"묩",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"2",
+    "ENTRY":"The corresponding pdf/csv file does not exist for",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"3",
+    "ENTRY":"The corresponding pdf/csv file does not exist for",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"4",
+    "ENTRY":"The corresponding pdf/csv file does not exist for",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"B",
+    "ENTRY":"The corresponding pdf/csv file does not exist for &2.",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"C",
+    "ENTRY":"The corresponding pdf/csv file does not exist for",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"E",
+    "ENTRY":"The corresponding pdf/csv file does not exist for &2.",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"G",
+    "ENTRY":"The corresponding pdf/csv file does not exist for",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"H",
+    "ENTRY":"The corresponding pdf/csv file does not exist for",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"L",
+    "ENTRY":"The corresponding pdf/csv file does not exist for",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"Q",
+    "ENTRY":"The corresponding pdf/csv file does not exist for",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"R",
+    "ENTRY":"The corresponding pdf/csv file does not exist for",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"T",
+    "ENTRY":"The corresponding pdf/csv file does not exist for",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"묩",
+    "ENTRY":"The corresponding pdf/csv file does not exist for &2.",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"2",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"3",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"4",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"B",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"C",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"E",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"G",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"H",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"L",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"Q",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"R",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"T",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W06",
+    "LANG":"묩",
+    "ENTRY":"The file &2 is not a pdf/csv file.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"W07",
+    "LANG":"B",
+    "ENTRY":"No Email config found for doc type &2 and CC &3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W07",
+    "LANG":"E",
+    "ENTRY":"No Email config found for doc type &2 and CC &3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W07",
+    "LANG":"묩",
+    "ENTRY":"No Email config found for doc type &2 and CC &3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W08",
+    "LANG":"B",
+    "ENTRY":"The file &2 is not a txt file.",
+    "LENGTH":60
+   },
+   {
+    "ID":"I",
+    "KEY":"W08",
+    "LANG":"E",
+    "ENTRY":"The file &2 is not a txt file.",
+    "LENGTH":60
+   },
+   {
+    "ID":"I",
+    "KEY":"W08",
+    "LANG":"묩",
+    "ENTRY":"The file &2 is not a txt file.",
+    "LENGTH":60
+   }
+  ]
+ }
+]

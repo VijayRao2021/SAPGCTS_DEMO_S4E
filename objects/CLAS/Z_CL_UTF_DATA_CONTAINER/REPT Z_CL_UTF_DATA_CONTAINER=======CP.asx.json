@@ -1,0 +1,99 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"2",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"3",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"4",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"B",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"C",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"E",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"G",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"H",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"L",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"Q",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"R",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"T",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"묩",
+    "ENTRY":"Initializing a Container object...",
+    "LENGTH":34
+   }
+  ]
+ }
+]

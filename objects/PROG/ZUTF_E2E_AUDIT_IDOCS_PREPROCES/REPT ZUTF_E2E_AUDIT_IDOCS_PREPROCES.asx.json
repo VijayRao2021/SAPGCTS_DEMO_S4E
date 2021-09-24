@@ -1,0 +1,2640 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"2",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"3",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"4",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"B",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"C",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"E",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"G",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"H",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"I",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"L",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"N",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"Q",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"R",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"T",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"묩",
+    "ENTRY":"Selection Criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"2",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"3",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"4",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"B",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"C",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"E",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"G",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"H",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"I",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"L",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"N",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"Q",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"R",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"T",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"묩",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"2",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"3",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"4",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"B",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"C",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"E",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"G",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"H",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"L",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"Q",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"R",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"T",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"B04",
+    "LANG":"묩",
+    "ENTRY":"TVARVC Variants",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"2",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"3",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"4",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"B",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"C",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"E",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"G",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"H",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"L",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"Q",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"R",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"T",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"M01",
+    "LANG":"묩",
+    "ENTRY":"Error during preprocessing check",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"2",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"3",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"4",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"B",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"C",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"E",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"G",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"H",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"L",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"Q",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"R",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"T",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"묩",
+    "ENTRY":"TVARVC table successfully updated",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"B",
+    "ENTRY":"IDOC considered / audited till:",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"E",
+    "ENTRY":"IDOC considered / audited till:",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"묩",
+    "ENTRY":"IDOC considered / audited till:",
+    "LENGTH":58
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"2",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"3",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"4",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"B",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"C",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"G",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"H",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"I",
+    "ENTRY":"Inbound IDOCs Analysis for Interface Audit",
+    "LENGTH":42
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"L",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"N",
+    "ENTRY":"Inbound IDOCs Analysis for Interface Audit",
+    "LENGTH":42
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"Q",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"R",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"T",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"묩",
+    "ENTRY":"Inbound IDOCs Preprocessing Analysis for Interface Audit",
+    "LENGTH":56
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"2",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"3",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"4",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"B",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"C",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"E",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"G",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"H",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"L",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"Q",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"R",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"T",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ANALYZ",
+    "LANG":"묩",
+    "ENTRY":"        Analyze IDOC range",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"2",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"3",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"4",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"B",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"C",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"E",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"G",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"H",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"L",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"Q",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"R",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"T",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"묩",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"2",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"3",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"4",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"B",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"C",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"E",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"G",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"H",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"L",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"Q",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"R",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"T",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"묩",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"2",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"3",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"4",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"B",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"C",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"E",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"G",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"H",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"L",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"Q",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"R",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"T",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_POSTPR",
+    "LANG":"묩",
+    "ENTRY":"        Post process IDOC range",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"2",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"3",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"4",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"B",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"C",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"E",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"G",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"H",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"L",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"Q",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"R",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"T",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PREPRO",
+    "LANG":"묩",
+    "ENTRY":"        Preprocess last IDOC",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"2",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"3",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"4",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"B",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"C",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"E",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"G",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"H",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"L",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"Q",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"R",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"T",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RBDAPP",
+    "LANG":"묩",
+    "ENTRY":"        Process IDOC max",
+    "LENGTH":24
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"2",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"3",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"4",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"B",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"C",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"E",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"G",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"H",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"I",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"L",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"N",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"Q",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"R",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"T",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RECYCL",
+    "LANG":"묩",
+    "ENTRY":"        Load the recycled Idocs",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"2",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"3",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"4",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"B",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"C",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"E",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"G",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"H",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"L",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"Q",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"R",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"T",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_TVARVC",
+    "LANG":"묩",
+    "ENTRY":"        Update TVARVC table",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"S_CREDAT",
+    "LANG":"I",
+    "ENTRY":"D       .",
+    "LENGTH":9
+   },
+   {
+    "ID":"S",
+    "KEY":"S_CREDAT",
+    "LANG":"N",
+    "ENTRY":"D       .",
+    "LENGTH":9
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DIRECT",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"I",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"N",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_DOCNUM",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"I",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"N",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_IDOCTP",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_INT_ID",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"I",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"N",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_MESTYP",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"I",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"N",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPOR",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"I",
+    "ENTRY":"D       .",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"N",
+    "ENTRY":"D       .",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRN",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"I",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"N",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_RCVPRT",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_STATUS",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"2",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"3",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"4",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"C",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"G",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"H",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"L",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"Q",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"R",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"T",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":28
+   }
+  ]
+ }
+]

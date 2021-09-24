@@ -1,0 +1,599 @@
+[
+ {
+  "table":"DOKHL",
+  "data":
+  [
+   {
+    "ID":"NA",
+    "OBJECT":"ZGLOBAL_MSG_CLS000",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZGLOBAL_MSG_CLS001",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZGLOBAL_MSG_CLS002",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZGLOBAL_MSG_CLS003",
+    "LANGU":"D",
+    "TYP":"E",
+    "DOKVERSION":1,
+    "DOKSTATE":"N",
+    "DOKFORM":"S_DOCU_SHOW",
+    "DOKSTYLE":"S_DOCUS1",
+    "DOKFUSER":"",
+    "DOKFRELES":"",
+    "DOKFDATE":"0000-00-00",
+    "DOKFTIME":"00:00:00",
+    "DOKLUSER":"",
+    "DOKLRELES":"",
+    "DOKLDATE":"0000-00-00",
+    "DOKLTIME":"00:00:00"
+   }
+  ]
+ },
+ {
+  "table":"DOKIL",
+  "data":
+  [
+   {
+    "ID":"NA",
+    "OBJECT":"ZGLOBAL_MSG_CLS000",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZGLOBAL_MSG_CLS001",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZGLOBAL_MSG_CLS002",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
+   },
+   {
+    "ID":"NA",
+    "OBJECT":"ZGLOBAL_MSG_CLS003",
+    "LANGU":"D",
+    "TYP":"E",
+    "VERSION":1,
+    "MASTERLANG":"X",
+    "TXTLINES":0,
+    "DOKSTATE":"N",
+    "SELFDEF":"3"
+   }
+  ]
+ },
+ {
+  "table":"T100",
+  "data":
+  [
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "TEXT":"& & & &"
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "TEXT":"&1/&2: &3 received idocs <> &4 expected idocs"
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "TEXT":"Idoc &1 has been already received under idoc &2 on &3"
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "TEXT":"&1/&2: ES has requested to park this IDOC."
+   }
+  ]
+ },
+ {
+  "table":"T100A",
+  "data":
+  [
+   {
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MASTERLANG":"E",
+    "APPLCLASS":"",
+    "RESPUSER":"NARALAR",
+    "LASTUSER":"RAOV",
+    "LDATE":"2021-09-18",
+    "LTIME":"09:14:05",
+    "STEXT":"Global message class ( DO NOT USE THIS MESSAGE CLASS )"
+   }
+  ]
+ },
+ {
+  "table":"T100T",
+  "data":
+  [
+   {
+    "SPRSL":"2",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class"
+   },
+   {
+    "SPRSL":"3",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class"
+   },
+   {
+    "SPRSL":"4",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class"
+   },
+   {
+    "SPRSL":"B",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class"
+   },
+   {
+    "SPRSL":"C",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class"
+   },
+   {
+    "SPRSL":"E",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class ( DO NOT USE THIS MESSAGE CLASS )"
+   },
+   {
+    "SPRSL":"G",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class"
+   },
+   {
+    "SPRSL":"H",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class"
+   },
+   {
+    "SPRSL":"L",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class"
+   },
+   {
+    "SPRSL":"Q",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class"
+   },
+   {
+    "SPRSL":"R",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class"
+   },
+   {
+    "SPRSL":"T",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class"
+   },
+   {
+    "SPRSL":"묩",
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "STEXT":"Global message class"
+   }
+  ]
+ },
+ {
+  "table":"T100U",
+  "data":
+  [
+   {
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"000",
+    "NAME":"NARALAR",
+    "DATUM":"2021-08-31",
+    "SELFDEF":"3"
+   },
+   {
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"001",
+    "NAME":"NARALAR",
+    "DATUM":"2021-08-31",
+    "SELFDEF":"3"
+   },
+   {
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"002",
+    "NAME":"NARALAR",
+    "DATUM":"2021-08-31",
+    "SELFDEF":"3"
+   },
+   {
+    "ARBGB":"ZGLOBAL_MSG_CLS",
+    "MSGNR":"003",
+    "NAME":"NARALAR",
+    "DATUM":"2021-08-31",
+    "SELFDEF":"3"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"MSAG",
+    "OBJ_NAME":"ZGLOBAL_MSG_CLS",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_INTERFACE_E2E",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2018-04-30",
+    "CHECK_DATE":"2018-04-30",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

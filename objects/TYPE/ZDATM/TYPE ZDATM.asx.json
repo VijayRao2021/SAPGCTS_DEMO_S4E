@@ -1,0 +1,167 @@
+[
+ {
+  "table":"DDTYPET",
+  "data":
+  [
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"2",
+    "DDTEXT":"Data management module Type group"
+   },
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"3",
+    "DDTEXT":"Data management module Type group"
+   },
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"4",
+    "DDTEXT":"Data management module Type group"
+   },
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"B",
+    "DDTEXT":"Data management module Type group"
+   },
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"C",
+    "DDTEXT":"Data management module Type group"
+   },
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"E",
+    "DDTEXT":"Data management module Type group"
+   },
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"G",
+    "DDTEXT":"Data management module Type group"
+   },
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"H",
+    "DDTEXT":"Data management module Type group"
+   },
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"L",
+    "DDTEXT":"Data management module Type group"
+   },
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"Q",
+    "DDTEXT":"Data management module Type group"
+   },
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"R",
+    "DDTEXT":"Data management module Type group"
+   },
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"T",
+    "DDTEXT":"Data management module Type group"
+   },
+   {
+    "TYPEGROUP":"ZDATM",
+    "DDLANGUAGE":"묩",
+    "DDTEXT":"Data management module Type group"
+   }
+  ]
+ },
+ {
+  "table":"SMODILOG",
+  "data":
+  [
+   {
+    "OBJ_TYPE":"TYPE",
+    "OBJ_NAME":"ZDATM",
+    "SUB_TYPE":"TYPD",
+    "SUB_NAME":"ZDATM",
+    "INT_TYPE":"",
+    "INT_NAME":"",
+    "OPERATION":"ALL",
+    "MAIN_PROG":"",
+    "INCLUDE":"",
+    "MOD_NAME":"",
+    "MOD_LANGU":"E",
+    "MOD_USER":"RAOV",
+    "MOD_DATE":"2021-09-03",
+    "MOD_TIME":"17:59:19",
+    "ACTIVE":"",
+    "INACTIVE":"",
+    "UPGRADE":"",
+    "PRE_CORR":"",
+    "PROT_ONLY":"X",
+    "UPG_MODE":"",
+    "MARK":"",
+    "SPAU":"",
+    "TRKORR":"",
+    "SPAU_CODE":""
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"TYPE",
+    "OBJ_NAME":"ZDATM",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_DATA_MANAGEMENT",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2016-05-12",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"%_CZDATM",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"T",
+    "APPL":"S",
+    "UNAM":"RAOV",
+    "LEVL":"740",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"ZDATM=========================TT",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "UNAM":"CRESSOD",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   }
+  ]
+ }
+]

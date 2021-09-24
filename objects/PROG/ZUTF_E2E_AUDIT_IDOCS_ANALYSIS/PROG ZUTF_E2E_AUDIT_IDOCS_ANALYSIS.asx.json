@@ -1,0 +1,130 @@
+[
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"PROG",
+    "OBJ_NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_INTERFACE_E2E",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2021-09-05",
+    "CHECK_DATE":"2021-09-05",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "VARCL":"X",
+    "SUBC":"1",
+    "UNAM":"RAOV",
+    "RSTAT":"K",
+    "RMAND":"011",
+    "RLOAD":"E",
+    "FIXPT":"X",
+    "UCCHECK":"X"
+   }
+  ]
+ },
+ {
+  "table":"TRDIRT",
+  "data":
+  [
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"2",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"3",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"4",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"B",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"C",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"E",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"G",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"H",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"I",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"L",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"N",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"Q",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"R",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"T",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   },
+   {
+    "NAME":"ZUTF_E2E_AUDIT_IDOCS_ANALYSIS",
+    "SPRSL":"묩",
+    "TEXT":"Inbound IDOCs Analysis for Interface Audit"
+   }
+  ]
+ }
+]

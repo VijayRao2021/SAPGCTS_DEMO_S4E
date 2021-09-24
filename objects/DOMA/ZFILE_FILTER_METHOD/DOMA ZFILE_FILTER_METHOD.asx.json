@@ -1,0 +1,167 @@
+[
+ {
+  "table":"DD01L",
+  "data":
+  [
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "AS4LOCAL":"L",
+    "AS4VERS":0,
+    "DATATYPE":"CHAR",
+    "LENG":30,
+    "OUTPUTLEN":30,
+    "DECIMALS":0,
+    "LOWERCASE":"",
+    "SIGNFLAG":"",
+    "LANGFLAG":"",
+    "VALEXI":"",
+    "ENTITYTAB":"",
+    "CONVEXIT":"",
+    "MASK":"",
+    "MASKLEN":0,
+    "ACTFLAG":"",
+    "APPLCLASS":"",
+    "AUTHCLASS":0,
+    "AS4USER":"KANUGOG",
+    "AS4DATE":"2021-08-31",
+    "AS4TIME":"22:13:55",
+    "DOMMASTER":"",
+    "RESERVEDOM":"",
+    "DOMGLOBAL":"",
+    "APPENDNAME":"",
+    "APPEXIST":"",
+    "PROXYTYPE":"",
+    "OUTPUTSTYLE":0,
+    "AMPMFORMAT":"",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"DD01T",
+  "data":
+  [
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"2",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   },
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"3",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   },
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"4",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   },
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"B",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   },
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"C",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   },
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   },
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"G",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   },
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"H",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   },
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"L",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   },
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"Q",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   },
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"R",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   },
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   },
+   {
+    "DOMNAME":"ZFILE_FILTER_METHOD",
+    "DDLANGUAGE":"묩",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Filter Method"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DOMA",
+    "OBJ_NAME":"ZFILE_FILTER_METHOD",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_FILE_MANAGER",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2018-08-06",
+    "CHECK_DATE":"2018-08-06",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

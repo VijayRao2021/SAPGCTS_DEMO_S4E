@@ -1,0 +1,160 @@
+[
+ {
+  "table":"DD40L",
+  "data":
+  [
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "AS4LOCAL":"N",
+    "ACTFLAG":"",
+    "ROWTYPE":"ZFAM_PARAMETER_VALUE",
+    "ROWKIND":"E",
+    "DATATYPE":"CHAR",
+    "LENG":40,
+    "DECIMALS":0,
+    "ACCESSMODE":"T",
+    "KEYDEF":"D",
+    "KEYKIND":"N",
+    "KEYFDCOUNT":0,
+    "GENERIC":"",
+    "TYPELEN":40,
+    "AS4USER":"CRESSOD",
+    "AS4DATE":"2021-08-31",
+    "AS4TIME":"22:13:57",
+    "TTYPKIND":"",
+    "RANGE_CTYP":"",
+    "REFTYPE":"",
+    "OCCURS":0,
+    "PROXYTYPE":"",
+    "ALIAS":"",
+    "FURTHERSECKEY":"",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"DD40T",
+  "data":
+  [
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"2",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"3",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"4",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"B",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"C",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"G",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"H",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"L",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"Q",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"R",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   },
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "DDLANGUAGE":"묩",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Parameter value table type for FAM"
+   }
+  ]
+ },
+ {
+  "table":"DDTYPES",
+  "data":
+  [
+   {
+    "TYPENAME":"ZFAM_T_PARAMETER_VALUES",
+    "STATE":"N",
+    "TYPEKIND":"TTYP"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"TTYP",
+    "OBJ_NAME":"ZFAM_T_PARAMETER_VALUES",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_CONF_FAM",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2017-04-28",
+    "CHECK_DATE":"2017-04-28",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

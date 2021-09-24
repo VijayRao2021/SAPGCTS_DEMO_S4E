@@ -1,0 +1,463 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"2",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"3",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"4",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"B",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"C",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"E",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"G",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"H",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"L",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"Q",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"R",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"T",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"묩",
+    "ENTRY":"Cannot find feature ID &2 in ZFAM_FEATURE table",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"2",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"3",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"4",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"B",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"C",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"E",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"G",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"H",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"L",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"Q",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"R",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"T",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"묩",
+    "ENTRY":"Cannot find group ID &2 in ZFAM_RULES_GROUP table",
+    "LENGTH":49
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"2",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"3",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"4",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"B",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"C",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"E",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"G",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"H",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"L",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"Q",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"R",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"T",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"묩",
+    "ENTRY":"Criteria &2 is not defined in the Group ID &3",
+    "LENGTH":45
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"2",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"3",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"4",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"B",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"C",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"E",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"G",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"H",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"L",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"Q",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"R",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"T",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"묩",
+    "ENTRY":"Parameter &2 is not defined for feature &3",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"2",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"3",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"4",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"B",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"C",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"E",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"G",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"H",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"L",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"Q",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"R",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"T",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"E05",
+    "LANG":"묩",
+    "ENTRY":"No parameter defined for feature &3",
+    "LENGTH":35
+   }
+  ]
+ }
+]

@@ -1,0 +1,167 @@
+[
+ {
+  "table":"DD01L",
+  "data":
+  [
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "AS4LOCAL":"L",
+    "AS4VERS":0,
+    "DATATYPE":"CHAR",
+    "LENG":255,
+    "OUTPUTLEN":255,
+    "DECIMALS":0,
+    "LOWERCASE":"X",
+    "SIGNFLAG":"",
+    "LANGFLAG":"",
+    "VALEXI":"",
+    "ENTITYTAB":"",
+    "CONVEXIT":"",
+    "MASK":"",
+    "MASKLEN":0,
+    "ACTFLAG":"",
+    "APPLCLASS":"",
+    "AUTHCLASS":0,
+    "AS4USER":"CRESSOD",
+    "AS4DATE":"2021-08-31",
+    "AS4TIME":"22:13:55",
+    "DOMMASTER":"",
+    "RESERVEDOM":"",
+    "DOMGLOBAL":"",
+    "APPENDNAME":"",
+    "APPEXIST":"",
+    "PROXYTYPE":"",
+    "OUTPUTSTYLE":0,
+    "AMPMFORMAT":"",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"DD01T",
+  "data":
+  [
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"2",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   },
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"3",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   },
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"4",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   },
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"B",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   },
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"C",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   },
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   },
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"G",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   },
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"H",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   },
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"L",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   },
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"Q",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   },
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"R",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   },
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   },
+   {
+    "DOMNAME":"ZDATA_DATA_VALUE",
+    "DDLANGUAGE":"묩",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data Value"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DOMA",
+    "OBJ_NAME":"ZDATA_DATA_VALUE",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_DATA_MANAGEMENT",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2016-05-20",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

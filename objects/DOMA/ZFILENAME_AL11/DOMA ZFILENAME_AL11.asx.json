@@ -1,0 +1,167 @@
+[
+ {
+  "table":"DD01L",
+  "data":
+  [
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "AS4LOCAL":"L",
+    "AS4VERS":0,
+    "DATATYPE":"CHAR",
+    "LENG":255,
+    "OUTPUTLEN":255,
+    "DECIMALS":0,
+    "LOWERCASE":"X",
+    "SIGNFLAG":"",
+    "LANGFLAG":"",
+    "VALEXI":"",
+    "ENTITYTAB":"",
+    "CONVEXIT":"",
+    "MASK":"",
+    "MASKLEN":0,
+    "ACTFLAG":"",
+    "APPLCLASS":"",
+    "AUTHCLASS":0,
+    "AS4USER":"RICHARBR",
+    "AS4DATE":"2021-08-31",
+    "AS4TIME":"22:13:55",
+    "DOMMASTER":"",
+    "RESERVEDOM":"",
+    "DOMGLOBAL":"",
+    "APPENDNAME":"",
+    "APPEXIST":"",
+    "PROXYTYPE":"",
+    "OUTPUTSTYLE":0,
+    "AMPMFORMAT":"",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"DD01T",
+  "data":
+  [
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"2",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   },
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"3",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   },
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"4",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   },
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"B",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   },
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"C",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   },
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   },
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"G",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   },
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"H",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   },
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"L",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   },
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"Q",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   },
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"R",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   },
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   },
+   {
+    "DOMNAME":"ZFILENAME_AL11",
+    "DDLANGUAGE":"묩",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"File Name for Transaction AL11"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DOMA",
+    "OBJ_NAME":"ZFILENAME_AL11",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_FILE_MANAGER",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2014-07-15",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

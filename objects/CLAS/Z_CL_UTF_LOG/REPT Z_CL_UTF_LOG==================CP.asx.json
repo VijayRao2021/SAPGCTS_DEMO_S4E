@@ -1,0 +1,645 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"2",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"3",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"4",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"B",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"C",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"E",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"G",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"H",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"L",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"Q",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"R",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"T",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"묩",
+    "ENTRY":"Cannot get the messages handlers RC: &2.",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"2",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"3",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"4",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"B",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"C",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"E",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"G",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"H",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"L",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"Q",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"R",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"T",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"묩",
+    "ENTRY":"Cannot read the message with handler &2 RC: &3.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"2",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"3",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"4",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"B",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"C",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"E",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"G",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"H",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"L",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"Q",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"R",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"T",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"묩",
+    "ENTRY":"Cannot Load the log &2 in DB RC: &3.",
+    "LENGTH":36
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"2",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"3",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"4",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"B",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"C",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"E",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"G",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"H",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"L",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"Q",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"R",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"T",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"묩",
+    "ENTRY":"Cannot save the log in DB RC: &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"2",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"3",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"4",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"B",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"C",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"E",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"G",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"H",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"L",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"Q",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"R",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"T",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"묩",
+    "ENTRY":"No log data to display",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"2",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"3",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"4",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"B",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"C",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"E",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"G",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"H",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"L",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"Q",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"R",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"T",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"묩",
+    "ENTRY":"No authorization to display the log",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"2",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"3",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"4",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"B",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"C",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"E",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"G",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"H",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"L",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"Q",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"R",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"T",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"묩",
+    "ENTRY":"Cannot display the log",
+    "LENGTH":22
+   }
+  ]
+ }
+]

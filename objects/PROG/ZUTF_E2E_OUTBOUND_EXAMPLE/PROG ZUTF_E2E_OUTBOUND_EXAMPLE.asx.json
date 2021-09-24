@@ -1,0 +1,120 @@
+[
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"PROG",
+    "OBJ_NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_INTERFACE_E2E",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2021-09-05",
+    "CHECK_DATE":"2021-09-05",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "VARCL":"X",
+    "SUBC":"1",
+    "UNAM":"RAOV",
+    "RSTAT":"T",
+    "RMAND":"011",
+    "RLOAD":"E",
+    "FIXPT":"X",
+    "UCCHECK":"X"
+   }
+  ]
+ },
+ {
+  "table":"TRDIRT",
+  "data":
+  [
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"2",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   },
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"3",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   },
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"4",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   },
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"B",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   },
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"C",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   },
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"E",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   },
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"G",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   },
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"H",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   },
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"L",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   },
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"Q",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   },
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"R",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   },
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"T",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   },
+   {
+    "NAME":"ZUTF_E2E_OUTBOUND_EXAMPLE",
+    "SPRSL":"묩",
+    "TEXT":"E2E Web services call example for Outbound interface"
+   }
+  ]
+ }
+]

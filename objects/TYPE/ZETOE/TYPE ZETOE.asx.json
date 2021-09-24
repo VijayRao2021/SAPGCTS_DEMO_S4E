@@ -1,0 +1,135 @@
+[
+ {
+  "table":"DDTYPET",
+  "data":
+  [
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"2",
+    "DDTEXT":"End to End constants and types"
+   },
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"3",
+    "DDTEXT":"End to End constants and types"
+   },
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"4",
+    "DDTEXT":"End to End constants and types"
+   },
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"B",
+    "DDTEXT":"End to End constants and types"
+   },
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"C",
+    "DDTEXT":"End to End constants and types"
+   },
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"E",
+    "DDTEXT":"End to End constants and types"
+   },
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"G",
+    "DDTEXT":"End to End constants and types"
+   },
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"H",
+    "DDTEXT":"End to End constants and types"
+   },
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"L",
+    "DDTEXT":"End to End constants and types"
+   },
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"Q",
+    "DDTEXT":"End to End constants and types"
+   },
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"R",
+    "DDTEXT":"End to End constants and types"
+   },
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"T",
+    "DDTEXT":"End to End constants and types"
+   },
+   {
+    "TYPEGROUP":"ZETOE",
+    "DDLANGUAGE":"묩",
+    "DDTEXT":"End to End constants and types"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"TYPE",
+    "OBJ_NAME":"ZETOE",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_INTERFACE_E2E",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"%_CZETOE",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"T",
+    "APPL":"S",
+    "UNAM":"CRESSOD",
+    "LEVL":"701",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"ZETOE=========================TT",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "UNAM":"CRESSOD",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   }
+  ]
+ }
+]

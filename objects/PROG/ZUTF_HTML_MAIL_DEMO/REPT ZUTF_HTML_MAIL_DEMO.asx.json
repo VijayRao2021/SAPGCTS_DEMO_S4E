@@ -1,0 +1,29 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"E",
+    "ENTRY":"Exception Raised at",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"E",
+    "ENTRY":"Mail sent successfully",
+    "LENGTH":44
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"HTML Mail Demo - UTF",
+    "LENGTH":20
+   }
+  ]
+ }
+]

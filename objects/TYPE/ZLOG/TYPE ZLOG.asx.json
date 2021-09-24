@@ -1,0 +1,145 @@
+[
+ {
+  "table":"DDTYPET",
+  "data":
+  [
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"2",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"3",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"4",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"B",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"C",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"E",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"G",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"H",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"I",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"L",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"N",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"Q",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"R",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"T",
+    "DDTEXT":"Types for the log management"
+   },
+   {
+    "TYPEGROUP":"ZLOG",
+    "DDLANGUAGE":"묩",
+    "DDTEXT":"Types for the log management"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"TYPE",
+    "OBJ_NAME":"ZLOG",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_COM_LOG",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"%_CZLOG",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"T",
+    "APPL":"S",
+    "UNAM":"CRESSOD",
+    "LEVL":"701",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"ZLOG==========================TT",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "UNAM":"CRESSOD",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   }
+  ]
+ }
+]

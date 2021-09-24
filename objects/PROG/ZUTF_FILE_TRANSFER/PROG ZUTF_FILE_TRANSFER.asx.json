@@ -1,0 +1,119 @@
+[
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"PROG",
+    "OBJ_NAME":"ZUTF_FILE_TRANSFER",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_FILE_TRANSFER",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2021-09-05",
+    "CHECK_DATE":"2021-09-05",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "VARCL":"X",
+    "SUBC":"1",
+    "UNAM":"RAOV",
+    "RMAND":"011",
+    "RLOAD":"E",
+    "FIXPT":"X",
+    "UCCHECK":"X"
+   }
+  ]
+ },
+ {
+  "table":"TRDIRT",
+  "data":
+  [
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"2",
+    "TEXT":"File Transfer Program using transfer framework"
+   },
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"3",
+    "TEXT":"File Transfer Program using transfer framework"
+   },
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"4",
+    "TEXT":"File Transfer Program using transfer framework"
+   },
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"B",
+    "TEXT":"File Transfer Program using transfer framework"
+   },
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"C",
+    "TEXT":"File Transfer Program using transfer framework"
+   },
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"E",
+    "TEXT":"File Transfer Program using transfer framework"
+   },
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"G",
+    "TEXT":"File Transfer Program using transfer framework"
+   },
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"H",
+    "TEXT":"File Transfer Program using transfer framework"
+   },
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"L",
+    "TEXT":"File Transfer Program using transfer framework"
+   },
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"Q",
+    "TEXT":"File Transfer Program using transfer framework"
+   },
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"R",
+    "TEXT":"File Transfer Program using transfer framework"
+   },
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"T",
+    "TEXT":"File Transfer Program using transfer framework"
+   },
+   {
+    "NAME":"ZUTF_FILE_TRANSFER",
+    "SPRSL":"묩",
+    "TEXT":"File Transfer Program using transfer framework"
+   }
+  ]
+ }
+]

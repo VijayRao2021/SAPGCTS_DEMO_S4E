@@ -1,0 +1,1317 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"2",
+    "ENTRY":"archive",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"3",
+    "ENTRY":"archive",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"4",
+    "ENTRY":"archive",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"C",
+    "ENTRY":"archive",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"G",
+    "ENTRY":"archive",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"H",
+    "ENTRY":"archive",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"L",
+    "ENTRY":"archive",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"Q",
+    "ENTRY":"archive",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"R",
+    "ENTRY":"archive",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"T",
+    "ENTRY":"archive",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"2",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"3",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"4",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"B",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"C",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"E",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"G",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"H",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"L",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"Q",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"R",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"T",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"묩",
+    "ENTRY":"Processing Options",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"2",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"3",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"4",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"B",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"C",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"E",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"G",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"H",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"L",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"Q",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"R",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"T",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"묩",
+    "ENTRY":"File List",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"2",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"3",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"4",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"B",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"C",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"E",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"G",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"H",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"L",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"Q",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"R",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"T",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"묩",
+    "ENTRY":"Please provide at least one file to process",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"2",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"3",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"4",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"B",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"C",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"E",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"G",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"H",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"L",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"Q",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"R",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"T",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"묩",
+    "ENTRY":"Error during transfer req. sending for file &2",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"2",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"3",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"4",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"B",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"C",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"E",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"G",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"H",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"L",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"Q",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"R",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"T",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"묩",
+    "ENTRY":"Error during transfer files req. sending",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"B",
+    "ENTRY":"Start file transfer for Process ID &2",
+    "LENGTH":74
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"E",
+    "ENTRY":"Start file transfer for Process ID &2",
+    "LENGTH":74
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"묩",
+    "ENTRY":"Start file transfer for Process ID &2",
+    "LENGTH":74
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"2",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"3",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"4",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"B",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"C",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"E",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"G",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"H",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"L",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"Q",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"R",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"T",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"묩",
+    "ENTRY":"Transfer files request successfully sent",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"2",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"3",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"4",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"B",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"C",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"E",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"G",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"H",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"L",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"Q",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"R",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"T",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"묩",
+    "ENTRY":"Transfer request successfully sent for file &2",
+    "LENGTH":84
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"2",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"3",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"4",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"B",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"C",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"G",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"H",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"L",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"Q",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"R",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"T",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"묩",
+    "ENTRY":"File Transfer Program using transfer framework",
+    "LENGTH":46
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"2",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"3",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"4",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"B",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"C",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"E",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"G",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"H",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"L",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"Q",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"R",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"T",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DPCHK",
+    "LANG":"묩",
+    "ENTRY":"        Disable Duplicate Check",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_EMAIL",
+    "LANG":"B",
+    "ENTRY":"        Send Email in case of error",
+    "LENGTH":35
+   },
+   {
+    "ID":"S",
+    "KEY":"P_EMAIL",
+    "LANG":"E",
+    "ENTRY":"        Send Email in case of error",
+    "LENGTH":35
+   },
+   {
+    "ID":"S",
+    "KEY":"P_EMAIL",
+    "LANG":"묩",
+    "ENTRY":"        Send Email in case of error",
+    "LENGTH":35
+   },
+   {
+    "ID":"S",
+    "KEY":"P_FOLDER",
+    "LANG":"B",
+    "ENTRY":"        Sub folder to get the files",
+    "LENGTH":35
+   },
+   {
+    "ID":"S",
+    "KEY":"P_FOLDER",
+    "LANG":"E",
+    "ENTRY":"        Sub folder to get the files",
+    "LENGTH":35
+   },
+   {
+    "ID":"S",
+    "KEY":"P_FOLDER",
+    "LANG":"묩",
+    "ENTRY":"        Sub folder to get the files",
+    "LENGTH":35
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"2",
+    "ENTRY":"        Process ID",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"3",
+    "ENTRY":"        Process ID",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"4",
+    "ENTRY":"        Process ID",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"C",
+    "ENTRY":"        Process ID",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"G",
+    "ENTRY":"        Process ID",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"H",
+    "ENTRY":"        Process ID",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"L",
+    "ENTRY":"        Process ID",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"Q",
+    "ENTRY":"        Process ID",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"R",
+    "ENTRY":"        Process ID",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCES",
+    "LANG":"T",
+    "ENTRY":"        Process ID",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"2",
+    "ENTRY":"        Resend Files",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"3",
+    "ENTRY":"        Resend Files",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"4",
+    "ENTRY":"        Resend Files",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"C",
+    "ENTRY":"        Resend Files",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"G",
+    "ENTRY":"        Resend Files",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"H",
+    "ENTRY":"        Resend Files",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"L",
+    "ENTRY":"        Resend Files",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"Q",
+    "ENTRY":"        Resend Files",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"R",
+    "ENTRY":"        Resend Files",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"T",
+    "ENTRY":"        Resend Files",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESEND",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESIND",
+    "LANG":"B",
+    "ENTRY":"        Resend Individual files",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESIND",
+    "LANG":"E",
+    "ENTRY":"        Resend Individual files",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RESIND",
+    "LANG":"묩",
+    "ENTRY":"        Resend Individual files",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_VARIAN",
+    "LANG":"B",
+    "ENTRY":"        Email variant",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"P_VARIAN",
+    "LANG":"E",
+    "ENTRY":"        Email variant",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"P_VARIAN",
+    "LANG":"묩",
+    "ENTRY":"        Email variant",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"2",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"3",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"4",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"B",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"C",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"E",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"G",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"H",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"L",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"Q",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"R",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"T",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_FILE",
+    "LANG":"묩",
+    "ENTRY":"        File(s) to process",
+    "LENGTH":26
+   },
+   {
+    "ID":"S",
+    "KEY":"S_PROCES",
+    "LANG":"B",
+    "ENTRY":"        Process Id",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_PROCES",
+    "LANG":"E",
+    "ENTRY":"        Process Id",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_PROCES",
+    "LANG":"묩",
+    "ENTRY":"        Process Id",
+    "LENGTH":18
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":9
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":9
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UDATE",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":9
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"B",
+    "ENTRY":"D       .",
+    "LENGTH":9
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"E",
+    "ENTRY":"D       .",
+    "LENGTH":9
+   },
+   {
+    "ID":"S",
+    "KEY":"S_UTIME",
+    "LANG":"묩",
+    "ENTRY":"D       .",
+    "LENGTH":9
+   }
+  ]
+ }
+]

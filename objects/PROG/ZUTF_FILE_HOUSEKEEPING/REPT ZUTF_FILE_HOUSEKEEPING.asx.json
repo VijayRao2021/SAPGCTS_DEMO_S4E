@@ -1,0 +1,491 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"B",
+    "ENTRY":"Folder Size",
+    "LENGTH":11
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"Folder Size",
+    "LENGTH":11
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"묩",
+    "ENTRY":"Folder Size",
+    "LENGTH":11
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"B",
+    "ENTRY":"Folder + Children",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":"Folder + Children",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"묩",
+    "ENTRY":"Folder + Children",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"B",
+    "ENTRY":"Most Recent file",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"E",
+    "ENTRY":"Most Recent file",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"묩",
+    "ENTRY":"Most Recent file",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"B",
+    "ENTRY":"Oldest file",
+    "LENGTH":11
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"E",
+    "ENTRY":"Oldest file",
+    "LENGTH":11
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"묩",
+    "ENTRY":"Oldest file",
+    "LENGTH":11
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"B",
+    "ENTRY":"Biggest file",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"E",
+    "ENTRY":"Biggest file",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"묩",
+    "ENTRY":"Biggest file",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"B",
+    "ENTRY":"Size",
+    "LENGTH":4
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"E",
+    "ENTRY":"Size",
+    "LENGTH":4
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"묩",
+    "ENTRY":"Size",
+    "LENGTH":4
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"B",
+    "ENTRY":"Fold+Child",
+    "LENGTH":10
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"E",
+    "ENTRY":"Fold+Child",
+    "LENGTH":10
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"묩",
+    "ENTRY":"Fold+Child",
+    "LENGTH":10
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"B",
+    "ENTRY":"Newest",
+    "LENGTH":6
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"E",
+    "ENTRY":"Newest",
+    "LENGTH":6
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"묩",
+    "ENTRY":"Newest",
+    "LENGTH":6
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"B",
+    "ENTRY":"Oldest",
+    "LENGTH":6
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"E",
+    "ENTRY":"Oldest",
+    "LENGTH":6
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"묩",
+    "ENTRY":"Oldest",
+    "LENGTH":6
+   },
+   {
+    "ID":"I",
+    "KEY":"010",
+    "LANG":"B",
+    "ENTRY":"Biggest",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"010",
+    "LANG":"E",
+    "ENTRY":"Biggest",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"010",
+    "LANG":"묩",
+    "ENTRY":"Biggest",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"B",
+    "ENTRY":"Run Parameters",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"E",
+    "ENTRY":"Run Parameters",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"묩",
+    "ENTRY":"Run Parameters",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"B",
+    "ENTRY":"Processes ID to check",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"E",
+    "ENTRY":"Processes ID to check",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"묩",
+    "ENTRY":"Processes ID to check",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"B",
+    "ENTRY":"Folder Report",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"E",
+    "ENTRY":"Folder Report",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"묩",
+    "ENTRY":"Folder Report",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"B",
+    "ENTRY":"No entries loaded from table &2.",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"E",
+    "ENTRY":"No entries loaded from table &2.",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"묩",
+    "ENTRY":"No entries loaded from table &2.",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"B",
+    "ENTRY":"ZFILE_MANAGER",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"E",
+    "ENTRY":"ZFILE_MANAGER",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"묩",
+    "ENTRY":"ZFILE_MANAGER",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"B",
+    "ENTRY":"&2 Entries loaded from table &3.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"E",
+    "ENTRY":"&2 Entries loaded from table &3.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"묩",
+    "ENTRY":"&2 Entries loaded from table &3.",
+    "LENGTH":64
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"B",
+    "ENTRY":"File Manager: HouseKeeping Activities",
+    "LENGTH":37
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"File Manager: HouseKeeping Activities",
+    "LENGTH":37
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"묩",
+    "ENTRY":"File Manager: HouseKeeping Activities",
+    "LENGTH":37
+   },
+   {
+    "ID":"S",
+    "KEY":"P_FLDCHK",
+    "LANG":"B",
+    "ENTRY":"        Folder Consistency Check",
+    "LENGTH":32
+   },
+   {
+    "ID":"S",
+    "KEY":"P_FLDCHK",
+    "LANG":"E",
+    "ENTRY":"        Folder Consistency Check",
+    "LENGTH":32
+   },
+   {
+    "ID":"S",
+    "KEY":"P_FLDCHK",
+    "LANG":"묩",
+    "ENTRY":"        Folder Consistency Check",
+    "LENGTH":32
+   },
+   {
+    "ID":"S",
+    "KEY":"P_FLDCLN",
+    "LANG":"B",
+    "ENTRY":"        Folder Cleaning",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"P_FLDCLN",
+    "LANG":"E",
+    "ENTRY":"        Folder Cleaning",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"P_FLDCLN",
+    "LANG":"묩",
+    "ENTRY":"        Folder Cleaning",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCID",
+    "LANG":"B",
+    "ENTRY":"        Main Process ID",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCID",
+    "LANG":"E",
+    "ENTRY":"        Main Process ID",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PROCID",
+    "LANG":"묩",
+    "ENTRY":"        Main Process ID",
+    "LENGTH":23
+   },
+   {
+    "ID":"S",
+    "KEY":"P_REPORT",
+    "LANG":"B",
+    "ENTRY":"        Folder Report",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"P_REPORT",
+    "LANG":"E",
+    "ENTRY":"        Folder Report",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"P_REPORT",
+    "LANG":"묩",
+    "ENTRY":"        Folder Report",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ROOT",
+    "LANG":"B",
+    "ENTRY":"        Root folder to execute report",
+    "LENGTH":37
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ROOT",
+    "LANG":"E",
+    "ENTRY":"        Root folder to execute report",
+    "LENGTH":37
+   },
+   {
+    "ID":"S",
+    "KEY":"P_ROOT",
+    "LANG":"묩",
+    "ENTRY":"        Root folder to execute report",
+    "LENGTH":37
+   },
+   {
+    "ID":"S",
+    "KEY":"S_PRCID",
+    "LANG":"B",
+    "ENTRY":"        Process ID to Analyze",
+    "LENGTH":29
+   },
+   {
+    "ID":"S",
+    "KEY":"S_PRCID",
+    "LANG":"E",
+    "ENTRY":"        Process ID to Analyze",
+    "LENGTH":29
+   },
+   {
+    "ID":"S",
+    "KEY":"S_PRCID",
+    "LANG":"묩",
+    "ENTRY":"        Process ID to Analyze",
+    "LENGTH":29
+   }
+  ]
+ }
+]

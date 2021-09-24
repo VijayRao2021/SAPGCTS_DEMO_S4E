@@ -1,0 +1,129 @@
+[
+ {
+  "table":"DD04L",
+  "data":
+  [
+   {
+    "ROLLNAME":"ZBC_AUDIT_ERROR_CODE",
+    "AS4LOCAL":"L",
+    "AS4VERS":0,
+    "DOMNAME":"ZBC_AUDIT_ERROR_CODE",
+    "ROUTPUTLEN":0,
+    "MEMORYID":"",
+    "LOGFLAG":"",
+    "HEADLEN":0,
+    "SCRLEN1":10,
+    "SCRLEN2":15,
+    "SCRLEN3":20,
+    "ACTFLAG":"",
+    "APPLCLASS":"",
+    "AUTHCLASS":0,
+    "AS4USER":"CRESSOD",
+    "AS4DATE":"2021-08-31",
+    "AS4TIME":"22:13:56",
+    "DTELMASTER":"E",
+    "RESERVEDTE":"",
+    "DTELGLOBAL":"",
+    "SHLPNAME":"",
+    "SHLPFIELD":"",
+    "DEFFDNAME":"",
+    "DATATYPE":"NUMC",
+    "LENG":2,
+    "DECIMALS":0,
+    "OUTPUTLEN":2,
+    "LOWERCASE":"",
+    "SIGNFLAG":"",
+    "CONVEXIT":"",
+    "VALEXI":"X",
+    "ENTITYTAB":"",
+    "REFKIND":"D",
+    "REFTYPE":"",
+    "PROXYTYPE":"",
+    "LTRFLDDIS":"",
+    "BIDICTRLC":"",
+    "NOHISTORY":"",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"DD04T",
+  "data":
+  [
+   {
+    "ROLLNAME":"ZBC_AUDIT_ERROR_CODE",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Unique ID/IDOC error code",
+    "REPTEXT":"",
+    "SCRTEXT_S":"Error code",
+    "SCRTEXT_M":"Error code",
+    "SCRTEXT_L":"Error code"
+   },
+   {
+    "ROLLNAME":"ZBC_AUDIT_ERROR_CODE",
+    "DDLANGUAGE":"I",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Unique ID/IDOC error code",
+    "REPTEXT":"",
+    "SCRTEXT_S":"Error code",
+    "SCRTEXT_M":"Error code",
+    "SCRTEXT_L":"Error code"
+   },
+   {
+    "ROLLNAME":"ZBC_AUDIT_ERROR_CODE",
+    "DDLANGUAGE":"N",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Unique ID/IDOC error code",
+    "REPTEXT":"",
+    "SCRTEXT_S":"Error code",
+    "SCRTEXT_M":"Error code",
+    "SCRTEXT_L":"Error code"
+   }
+  ]
+ },
+ {
+  "table":"DDTYPES",
+  "data":
+  [
+   {
+    "TYPENAME":"ZBC_AUDIT_ERROR_CODE",
+    "STATE":"N",
+    "TYPEKIND":"DTEL"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DTEL",
+    "OBJ_NAME":"ZBC_AUDIT_ERROR_CODE",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_INTERFACE_E2E",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,3 @@
+U4 &FUNCTIONALITY&                                                         
+AS Einbuchen der Core-Daten eines Sachkontos aus dem übergebenen Core-IDOC 
+AS 'GLCORE' durch Batch-Input.                                             

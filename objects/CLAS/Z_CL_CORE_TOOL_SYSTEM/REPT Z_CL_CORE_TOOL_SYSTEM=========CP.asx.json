@@ -1,0 +1,71 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"B",
+    "ENTRY":"No command name specified.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"E",
+    "ENTRY":"No command name specified.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"묩",
+    "ENTRY":"No command name specified.",
+    "LENGTH":66
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"B",
+    "ENTRY":"Error executing command &2 with parameters &3.",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"E",
+    "ENTRY":"Error executing command &2 with parameters &3.",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"묩",
+    "ENTRY":"Error executing command &2 with parameters &3.",
+    "LENGTH":76
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"B",
+    "ENTRY":"No authorization to call &2 with &3.",
+    "LENGTH":72
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"E",
+    "ENTRY":"No authorization to call &2 with &3.",
+    "LENGTH":72
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"묩",
+    "ENTRY":"No authorization to call &2 with &3.",
+    "LENGTH":72
+   }
+  ]
+ }
+]

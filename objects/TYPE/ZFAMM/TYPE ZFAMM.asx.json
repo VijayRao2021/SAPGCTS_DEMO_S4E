@@ -1,0 +1,135 @@
+[
+ {
+  "table":"DDTYPET",
+  "data":
+  [
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"2",
+    "DDTEXT":"Type group for the feature activation management module"
+   },
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"3",
+    "DDTEXT":"Type group for the feature activation management module"
+   },
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"4",
+    "DDTEXT":"Type group for the feature activation management module"
+   },
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"B",
+    "DDTEXT":"Type group for the feature activation management module"
+   },
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"C",
+    "DDTEXT":"Type group for the feature activation management module"
+   },
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"E",
+    "DDTEXT":"Type group for the feature activation management module"
+   },
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"G",
+    "DDTEXT":"Type group for the feature activation management module"
+   },
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"H",
+    "DDTEXT":"Type group for the feature activation management module"
+   },
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"L",
+    "DDTEXT":"Type group for the feature activation management module"
+   },
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"Q",
+    "DDTEXT":"Type group for the feature activation management module"
+   },
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"R",
+    "DDTEXT":"Type group for the feature activation management module"
+   },
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"T",
+    "DDTEXT":"Type group for the feature activation management module"
+   },
+   {
+    "TYPEGROUP":"ZFAMM",
+    "DDLANGUAGE":"묩",
+    "DDTEXT":"Type group for the feature activation management module"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"TYPE",
+    "OBJ_NAME":"ZFAMM",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_CONF_FAM",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2015-02-19",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"%_CZFAMM",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"T",
+    "APPL":"S",
+    "UNAM":"CRESSOD",
+    "LEVL":"740",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"ZFAMM=========================TT",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "UNAM":"CRESSOD",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   }
+  ]
+ }
+]

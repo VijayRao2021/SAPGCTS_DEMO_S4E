@@ -1,0 +1,3 @@
+FUNCTION-POOL ZFILE_CONVERSION_EXIT.        "MESSAGE-ID ..
+
+* INCLUDE LZFILE_CONVERSION_EXITD...         " Local class definition

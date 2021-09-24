@@ -1,0 +1,281 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"2",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"3",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"4",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"B",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"C",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"E",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"G",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"H",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"L",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"Q",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"R",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"T",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"묩",
+    "ENTRY":"Try to lock entry &2.",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"2",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"3",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"4",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"B",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"C",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"E",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"G",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"H",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"L",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"Q",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"R",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"T",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"묩",
+    "ENTRY":"Unlock entry &2.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"2",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"3",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"4",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"B",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"C",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"E",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"G",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"H",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"L",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"Q",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"R",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"T",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"묩",
+    "ENTRY":"Lock entry already exists. Wait until it is released...",
+    "LENGTH":132
+   }
+  ]
+ }
+]

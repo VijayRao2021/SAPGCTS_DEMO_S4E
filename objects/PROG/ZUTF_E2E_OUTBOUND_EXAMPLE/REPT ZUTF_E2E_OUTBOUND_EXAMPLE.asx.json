@@ -1,0 +1,645 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"2",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"3",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"4",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"B",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"C",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"E",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"G",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"H",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"L",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"Q",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"R",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"T",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"묩",
+    "ENTRY":"Selection criteria",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"2",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"3",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"4",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"B",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"C",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"E",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"G",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"H",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"L",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"Q",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"R",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"T",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"B02",
+    "LANG":"묩",
+    "ENTRY":"Options",
+    "LENGTH":7
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"2",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"3",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"4",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"B",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"C",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"G",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"H",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"L",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"Q",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"R",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"T",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"묩",
+    "ENTRY":"E2E Web services call example for Outbound interface",
+    "LENGTH":52
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"2",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"3",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"4",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"B",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"C",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"E",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"G",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"H",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"L",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"Q",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"R",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"T",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATEFR",
+    "LANG":"묩",
+    "ENTRY":"        Extract from date",
+    "LENGTH":25
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"2",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"3",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"4",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"B",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"C",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"E",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"G",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"H",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"L",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"Q",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"R",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"T",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DATETO",
+    "LANG":"묩",
+    "ENTRY":"        To date",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"2",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"3",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"4",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"B",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"C",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"E",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"G",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"H",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"L",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"Q",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"R",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"T",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DISWS",
+    "LANG":"묩",
+    "ENTRY":"        Disable Web services calls",
+    "LENGTH":34
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"2",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"3",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"4",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"B",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"C",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"E",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"G",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"H",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"L",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"Q",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"R",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"T",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOGLVL",
+    "LANG":"묩",
+    "ENTRY":"        Log level",
+    "LENGTH":17
+   }
+  ]
+ }
+]

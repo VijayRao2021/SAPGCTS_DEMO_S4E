@@ -1,0 +1,554 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"2",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"3",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"4",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"B",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"C",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"E",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"G",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"H",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"L",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"Q",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"R",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"T",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"B01",
+    "LANG":"묩",
+    "ENTRY":"Cleaning",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"2",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"3",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"4",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"B",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"C",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"E",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"G",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"H",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"L",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"Q",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"R",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"T",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"묩",
+    "ENTRY":"Start ZE2E_FINGER_PRT cleaning...",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"2",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"3",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"4",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"B",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"C",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"E",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"G",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"H",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"L",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"Q",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"R",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"T",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"묩",
+    "ENTRY":"&2 days of retention so delete until &3",
+    "LENGTH":39
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"2",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"3",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"4",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"B",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"C",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"E",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"G",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"H",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"L",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"Q",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"R",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"T",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"묩",
+    "ENTRY":"&2 lines deleted",
+    "LENGTH":16
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"2",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"3",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"4",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"B",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"C",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"G",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"H",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"L",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"Q",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"R",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"T",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"묩",
+    "ENTRY":"Manage the finger print table",
+    "LENGTH":29
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"2",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"3",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"4",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"B",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"C",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"E",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"G",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"H",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"L",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"Q",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"R",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"T",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_RETTIM",
+    "LANG":"묩",
+    "ENTRY":"        Retention time",
+    "LENGTH":22
+   }
+  ]
+ }
+]

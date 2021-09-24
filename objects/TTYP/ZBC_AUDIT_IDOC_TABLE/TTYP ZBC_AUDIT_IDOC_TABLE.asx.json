@@ -1,0 +1,172 @@
+[
+ {
+  "table":"DD40L",
+  "data":
+  [
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "AS4LOCAL":"N",
+    "ACTFLAG":"",
+    "ROWTYPE":"ZBC_AUDIT_IDOC_LINE",
+    "ROWKIND":"S",
+    "DATATYPE":"STRU",
+    "LENG":0,
+    "DECIMALS":0,
+    "ACCESSMODE":"T",
+    "KEYDEF":"D",
+    "KEYKIND":"N",
+    "KEYFDCOUNT":0,
+    "GENERIC":"",
+    "TYPELEN":44,
+    "AS4USER":"CRESSOD",
+    "AS4DATE":"2021-09-07",
+    "AS4TIME":"20:33:24",
+    "TTYPKIND":"",
+    "RANGE_CTYP":"",
+    "REFTYPE":"C",
+    "OCCURS":0,
+    "PROXYTYPE":"",
+    "ALIAS":"",
+    "FURTHERSECKEY":"",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"DD40T",
+  "data":
+  [
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"2",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"3",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"4",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"B",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"C",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"G",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"H",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"I",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"L",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"N",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"Q",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"R",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   },
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "DDLANGUAGE":"묩",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Table Type for class ZCL_BC_INTERFACE_AUDIT_IDOC"
+   }
+  ]
+ },
+ {
+  "table":"DDTYPES",
+  "data":
+  [
+   {
+    "TYPENAME":"ZBC_AUDIT_IDOC_TABLE",
+    "STATE":"N",
+    "TYPEKIND":"TTYP"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"TTYP",
+    "OBJ_NAME":"ZBC_AUDIT_IDOC_TABLE",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_INTERFACE_E2E",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,3179 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"2",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"3",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"4",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"B",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"C",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"E",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"G",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"H",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"L",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"Q",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"R",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"T",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E01",
+    "LANG":"묩",
+    "ENTRY":"Cannot close the file &2, RC = &3.",
+    "LENGTH":34
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"2",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"3",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"4",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"B",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"C",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"E",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"G",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"H",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"L",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"Q",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"R",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"T",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E02",
+    "LANG":"묩",
+    "ENTRY":"Error when calculating MD5 checksum on file &2.",
+    "LENGTH":47
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"2",
+    "ENTRY":"File &2 has been already processed the &3",
+    "LENGTH":41
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"3",
+    "ENTRY":"File &2 has been already processed the &3",
+    "LENGTH":41
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"4",
+    "ENTRY":"File &2 has been already processed the &3",
+    "LENGTH":41
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"B",
+    "ENTRY":"File &2 has been already processed the &3.",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"C",
+    "ENTRY":"File &2 has been already processed the &3",
+    "LENGTH":41
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"E",
+    "ENTRY":"File &2 has been already processed the &3.",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"G",
+    "ENTRY":"File &2 has been already processed the &3",
+    "LENGTH":41
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"H",
+    "ENTRY":"File &2 has been already processed the &3",
+    "LENGTH":41
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"L",
+    "ENTRY":"File &2 has been already processed the &3",
+    "LENGTH":41
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"Q",
+    "ENTRY":"File &2 has been already processed the &3",
+    "LENGTH":41
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"R",
+    "ENTRY":"File &2 has been already processed the &3",
+    "LENGTH":41
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"T",
+    "ENTRY":"File &2 has been already processed the &3",
+    "LENGTH":41
+   },
+   {
+    "ID":"I",
+    "KEY":"E03",
+    "LANG":"묩",
+    "ENTRY":"File &2 has been already processed the &3.",
+    "LENGTH":42
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"2",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"3",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"4",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"B",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"C",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"E",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"G",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"H",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"L",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"Q",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"R",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"T",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E04",
+    "LANG":"묩",
+    "ENTRY":"Cannot open the file, RC = &2.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"2",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"3",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"4",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"B",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"C",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"E",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"G",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"H",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"L",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"Q",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"R",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"T",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E06",
+    "LANG":"묩",
+    "ENTRY":"Cannot load file in memory, because is not open.",
+    "LENGTH":96
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"2",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"3",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"4",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"B",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"C",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"E",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"G",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"H",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"L",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"Q",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"R",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"T",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E07",
+    "LANG":"묩",
+    "ENTRY":"Cannot open in write mode &2.",
+    "LENGTH":58
+   },
+   {
+    "ID":"I",
+    "KEY":"E08",
+    "LANG":"2",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E08",
+    "LANG":"3",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E08",
+    "LANG":"4",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E08",
+    "LANG":"C",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E08",
+    "LANG":"G",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E08",
+    "LANG":"H",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E08",
+    "LANG":"L",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E08",
+    "LANG":"Q",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E08",
+    "LANG":"R",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E08",
+    "LANG":"T",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"E09",
+    "LANG":"B",
+    "ENTRY":"Deletion failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E09",
+    "LANG":"E",
+    "ENTRY":"Deletion failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E09",
+    "LANG":"묩",
+    "ENTRY":"Deletion failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"2",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"3",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"4",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"B",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"C",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"E",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"G",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"H",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"L",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"Q",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"R",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"T",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E10",
+    "LANG":"묩",
+    "ENTRY":"Move failed.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"2",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"3",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"4",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"B",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"C",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"E",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"G",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"H",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"L",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"Q",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"R",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"T",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E11",
+    "LANG":"묩",
+    "ENTRY":"Archiving failed.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"2",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"3",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"4",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"B",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"C",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"E",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"G",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"H",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"L",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"Q",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"R",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"T",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E12",
+    "LANG":"묩",
+    "ENTRY":"Parking failed.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"E13",
+    "LANG":"B",
+    "ENTRY":"Cannot define default path for process ID &2.",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"E13",
+    "LANG":"E",
+    "ENTRY":"Cannot define default path for process ID &2.",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"E13",
+    "LANG":"묩",
+    "ENTRY":"Cannot define default path for process ID &2.",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"E14",
+    "LANG":"B",
+    "ENTRY":"Error while writing file.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"E14",
+    "LANG":"E",
+    "ENTRY":"Error while writing file.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"E14",
+    "LANG":"묩",
+    "ENTRY":"Error while writing file.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"E15",
+    "LANG":"B",
+    "ENTRY":"File is empty: nothing to sign.",
+    "LENGTH":62
+   },
+   {
+    "ID":"I",
+    "KEY":"E15",
+    "LANG":"E",
+    "ENTRY":"File is empty: nothing to sign.",
+    "LENGTH":62
+   },
+   {
+    "ID":"I",
+    "KEY":"E15",
+    "LANG":"묩",
+    "ENTRY":"File is empty: nothing to sign.",
+    "LENGTH":62
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"2",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"3",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"4",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"B",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"C",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"E",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"G",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"H",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"L",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"Q",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"R",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"T",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H01",
+    "LANG":"묩",
+    "ENTRY":"Initialize a File data object...",
+    "LENGTH":32
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"2",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"3",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"4",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"B",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"C",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"E",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"G",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"H",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"L",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"Q",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"R",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"T",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H03",
+    "LANG":"묩",
+    "ENTRY":"Process the file documents...",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"H04",
+    "LANG":"B",
+    "ENTRY":"Sign file &2.",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"H04",
+    "LANG":"E",
+    "ENTRY":"Sign file &2.",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"H04",
+    "LANG":"묩",
+    "ENTRY":"Sign file &2.",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"2",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"3",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"4",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"B",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"C",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"E",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"G",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"H",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"L",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"Q",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"R",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"T",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I01",
+    "LANG":"묩",
+    "ENTRY":"Close the file &2.",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"2",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"3",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"4",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"B",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"C",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"E",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"G",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"H",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"L",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"Q",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"R",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"T",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I02",
+    "LANG":"묩",
+    "ENTRY":"Full path defined: &2.",
+    "LENGTH":22
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"2",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"3",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"4",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"B",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"C",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"E",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"G",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"H",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"L",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"Q",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"R",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"T",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I03",
+    "LANG":"묩",
+    "ENTRY":"Load file data in memory.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"2",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"3",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"4",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"B",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"C",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"E",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"G",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"H",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"L",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"Q",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"R",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"T",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I04",
+    "LANG":"묩",
+    "ENTRY":"&2 lines loaded.",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"2",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"3",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"4",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"B",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"C",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"E",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"G",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"H",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"L",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"Q",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"R",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"T",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I05",
+    "LANG":"묩",
+    "ENTRY":"Open text file &2 in read mode.",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"2",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"3",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"4",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"B",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"C",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"E",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"G",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"H",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"L",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"Q",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"R",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"T",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I06",
+    "LANG":"묩",
+    "ENTRY":"Open text file &2 in write mode.",
+    "LENGTH":33
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"2",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"3",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"4",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"B",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"C",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"E",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"G",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"H",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"L",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"Q",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"R",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"T",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I07",
+    "LANG":"묩",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"2",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"3",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"4",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"B",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"C",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"E",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"G",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"H",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"L",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"Q",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"R",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"T",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I08",
+    "LANG":"묩",
+    "ENTRY":"Move file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"2",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"3",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"4",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"C",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"G",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"H",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"L",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"Q",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"R",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I10",
+    "LANG":"T",
+    "ENTRY":"Copy file to &2.",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"I11",
+    "LANG":"2",
+    "ENTRY":"Copy with a new name: &2.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I11",
+    "LANG":"3",
+    "ENTRY":"Copy with a new name: &2.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I11",
+    "LANG":"4",
+    "ENTRY":"Copy with a new name: &2.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I11",
+    "LANG":"C",
+    "ENTRY":"Copy with a new name: &2.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I11",
+    "LANG":"G",
+    "ENTRY":"Copy with a new name: &2.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I11",
+    "LANG":"H",
+    "ENTRY":"Copy with a new name: &2.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I11",
+    "LANG":"L",
+    "ENTRY":"Copy with a new name: &2.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I11",
+    "LANG":"Q",
+    "ENTRY":"Copy with a new name: &2.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I11",
+    "LANG":"R",
+    "ENTRY":"Copy with a new name: &2.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I11",
+    "LANG":"T",
+    "ENTRY":"Copy with a new name: &2.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"2",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"3",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"4",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"B",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"C",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"E",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"G",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"H",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"L",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"Q",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"R",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"T",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I12",
+    "LANG":"묩",
+    "ENTRY":"Delete file &2.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"2",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"3",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"4",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"B",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"C",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"E",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"G",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"H",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"L",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"Q",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"R",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"T",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I13",
+    "LANG":"묩",
+    "ENTRY":"Start file archiving",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"2",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"3",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"4",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"B",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"C",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"E",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"G",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"H",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"L",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"Q",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"R",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"T",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I14",
+    "LANG":"묩",
+    "ENTRY":"Start file parking.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"2",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"3",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"4",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"B",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"C",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"E",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"G",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"H",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"L",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"Q",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"R",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"T",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I15",
+    "LANG":"묩",
+    "ENTRY":"No duplicate check performed on file &2.",
+    "LENGTH":80
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"2",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"3",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"4",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"B",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"C",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"E",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"G",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"H",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"L",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"Q",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"R",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"T",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I16",
+    "LANG":"묩",
+    "ENTRY":"Open binary file &2 in read mode.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"2",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"3",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"4",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"B",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"C",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"E",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"G",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"H",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"L",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"Q",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"R",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"T",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I17",
+    "LANG":"묩",
+    "ENTRY":"Open binary file &2 in write mode.",
+    "LENGTH":68
+   },
+   {
+    "ID":"I",
+    "KEY":"I18",
+    "LANG":"B",
+    "ENTRY":"Get certifcate parameter for application &2.",
+    "LENGTH":88
+   },
+   {
+    "ID":"I",
+    "KEY":"I18",
+    "LANG":"E",
+    "ENTRY":"Get certifcate parameter for application &2.",
+    "LENGTH":88
+   },
+   {
+    "ID":"I",
+    "KEY":"I18",
+    "LANG":"묩",
+    "ENTRY":"Get certifcate parameter for application &2.",
+    "LENGTH":88
+   },
+   {
+    "ID":"I",
+    "KEY":"I19",
+    "LANG":"B",
+    "ENTRY":"Certifcate parameter loaded.",
+    "LENGTH":56
+   },
+   {
+    "ID":"I",
+    "KEY":"I19",
+    "LANG":"E",
+    "ENTRY":"Certifcate parameter loaded.",
+    "LENGTH":56
+   },
+   {
+    "ID":"I",
+    "KEY":"I19",
+    "LANG":"묩",
+    "ENTRY":"Certifcate parameter loaded.",
+    "LENGTH":56
+   },
+   {
+    "ID":"I",
+    "KEY":"I20",
+    "LANG":"B",
+    "ENTRY":"Sign the file data.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I20",
+    "LANG":"E",
+    "ENTRY":"Sign the file data.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I20",
+    "LANG":"묩",
+    "ENTRY":"Sign the file data.",
+    "LENGTH":29
+   },
+   {
+    "ID":"I",
+    "KEY":"I21",
+    "LANG":"B",
+    "ENTRY":"File data signed.",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"I21",
+    "LANG":"E",
+    "ENTRY":"File data signed.",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"I21",
+    "LANG":"묩",
+    "ENTRY":"File data signed.",
+    "LENGTH":27
+   },
+   {
+    "ID":"I",
+    "KEY":"I22",
+    "LANG":"B",
+    "ENTRY":"Overwrite file with signed data.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I22",
+    "LANG":"E",
+    "ENTRY":"Overwrite file with signed data.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"I22",
+    "LANG":"묩",
+    "ENTRY":"Overwrite file with signed data.",
+    "LENGTH":64
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"B",
+    "ENTRY":"File successfully signed.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"E",
+    "ENTRY":"File successfully signed.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"묩",
+    "ENTRY":"File successfully signed.",
+    "LENGTH":50
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"2",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"3",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"4",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"B",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"C",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"E",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"G",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"H",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"L",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"Q",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"R",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"T",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W01",
+    "LANG":"묩",
+    "ENTRY":"File &2 is not open.",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"2",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"3",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"4",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"B",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"C",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"E",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"G",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"H",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"L",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"Q",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"R",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"T",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W02",
+    "LANG":"묩",
+    "ENTRY":"File &2 is already open",
+    "LENGTH":23
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"2",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"3",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"4",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"B",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"C",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"E",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"G",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"H",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"L",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"Q",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"R",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"T",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W03",
+    "LANG":"묩",
+    "ENTRY":"No file to process in folder &2",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"2",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"3",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"4",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"B",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"C",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"E",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"G",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"H",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"L",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"Q",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"R",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"T",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W04",
+    "LANG":"묩",
+    "ENTRY":"Cannot read the files list for folder &2: RC=&3.",
+    "LENGTH":48
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"2",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"3",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"4",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"B",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"C",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"E",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"G",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"H",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"L",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"Q",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"R",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"T",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   },
+   {
+    "ID":"I",
+    "KEY":"W05",
+    "LANG":"묩",
+    "ENTRY":"Data are alredy loaded.",
+    "LENGTH":46
+   }
+  ]
+ }
+]

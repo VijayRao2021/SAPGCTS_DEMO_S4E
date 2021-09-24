@@ -1,0 +1,135 @@
+[
+ {
+  "table":"DDTYPET",
+  "data":
+  [
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"2",
+    "DDTEXT":"Constants and type for the modules"
+   },
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"3",
+    "DDTEXT":"Constants and type for the modules"
+   },
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"4",
+    "DDTEXT":"Constants and type for the modules"
+   },
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"B",
+    "DDTEXT":"Constants and type for the modules"
+   },
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"C",
+    "DDTEXT":"Constants and type for the modules"
+   },
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"E",
+    "DDTEXT":"Constants and type for the modules"
+   },
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"G",
+    "DDTEXT":"Constants and type for the modules"
+   },
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"H",
+    "DDTEXT":"Constants and type for the modules"
+   },
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"L",
+    "DDTEXT":"Constants and type for the modules"
+   },
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"Q",
+    "DDTEXT":"Constants and type for the modules"
+   },
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"R",
+    "DDTEXT":"Constants and type for the modules"
+   },
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"T",
+    "DDTEXT":"Constants and type for the modules"
+   },
+   {
+    "TYPEGROUP":"ZCORE",
+    "DDLANGUAGE":"묩",
+    "DDTEXT":"Constants and type for the modules"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"TYPE",
+    "OBJ_NAME":"ZCORE",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAOV",
+    "SRCDEP":"",
+    "DEVCLASS":"ZUTF_CORE",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2016-04-04",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"%_CZCORE",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"T",
+    "APPL":"S",
+    "UNAM":"KANUGOG",
+    "LEVL":"740",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"ZCORE=========================TT",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "UNAM":"CRESSOD",
+    "RMAND":"011",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   }
+  ]
+ }
+]
